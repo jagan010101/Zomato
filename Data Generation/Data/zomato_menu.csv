@@ -5,292 +5,348 @@ item_id,item_name,cuisine,course,veg_type
 3,Lachha Paratha,North Indian,mains,veg
 4,Garlic Naan,North Indian,mains,veg
 5,Plain Naan,North Indian,mains,veg
-6,Paneer Tikka,North Indian,appetizers,veg
-7,Tandoori Chicken,North Indian,appetizers,nonveg
-8,Hara Bhara Kabab,North Indian,appetizers,veg
-9,Chicken Seekh Kabab,North Indian,appetizers,nonveg
-10,Aloo Tikki,North Indian,appetizers,veg
-11,Fish Amritsari,North Indian,appetizers,nonveg
-12,Butter Chicken,North Indian,complements,nonveg
-13,Paneer Butter Masala,North Indian,complements,veg
-14,Dal Makhani,North Indian,complements,veg
-15,Shahi Paneer,North Indian,complements,veg
-16,Kadai Paneer,North Indian,complements,veg
-17,Chicken Tikka Masala,North Indian,complements,nonveg
-18,Malai Kofta,North Indian,complements,veg
-19,Chicken Curry,North Indian,complements,nonveg
-20,Mutton Rogan Josh,North Indian,complements,nonveg
-21,Palak Paneer,North Indian,complements,veg
-22,Boondi Raita,North Indian,extras,veg
-23,Plain Curd,North Indian,extras,veg
-24,Mint Chutney,North Indian,extras,veg
-25,Onion Salad,North Indian,extras,veg
-26,Green Salad,North Indian,extras,veg
-27,Papad,North Indian,extras,veg
-28,Masala Papad,North Indian,extras,veg
-29,Pickle,North Indian,extras,veg
-30,Butter,North Indian,extras,veg
-31,Extra Gravy,North Indian,extras,veg
-32,Gulab Jamun,North Indian,desserts & beverages,veg
-33,Rasgulla,North Indian,desserts & beverages,veg
-34,Rasmalai,North Indian,desserts & beverages,veg
-35,Kheer,North Indian,desserts & beverages,veg
-36,Rabri,North Indian,desserts & beverages,veg
-37,Lassi,North Indian,desserts & beverages,veg
-38,Chai,North Indian,desserts & beverages,veg
-39,Badam Milk,North Indian,desserts & beverages,veg
-40,Masala Dosa,South Indian,mains,veg
-41,Plain Dosa,South Indian,mains,veg
-42,Rava Dosa,South Indian,mains,veg
-43,Onion Dosa,South Indian,mains,veg
-44,Set Dosa,South Indian,mains,veg
-45,Idli,South Indian,mains,veg
-46,Vada,South Indian,mains,veg
-47,Upma,South Indian,mains,veg
-48,Pongal,South Indian,mains,veg
-49,Uttapam,South Indian,mains,veg
-50,Paper Dosa,South Indian,mains,veg
-51,Mysore Masala Dosa,South Indian,mains,veg
-52,Appam,South Indian,mains,veg
-53,Curd Rice,South Indian,mains,veg
-54,Lemon Rice,South Indian,mains,veg
-55,Bisibelebath,South Indian,mains,veg
-56,Neer Dosa,South Indian,mains,veg
-57,Kerala Parotta,South Indian,mains,veg
-58,Egg Dosa,South Indian,mains,egg
-59,Mini Tiffin,South Indian,mains,veg
-60,Gobi 65,South Indian,appetizers,veg
-61,Paneer 65,South Indian,appetizers,veg
-62,Sambar,South Indian,complements,veg
-63,Curd,South Indian,complements,veg
-64,Coconut Chutney,South Indian,complements,veg
-65,Tomato Chutney,South Indian,complements,veg
-66,Gunpowder,South Indian,complements,veg
-67,Extra Sambar,South Indian,extras,veg
-68,Extra Coconut Chutney,South Indian,extras,veg
-69,Extra Tomato Chutney,South Indian,extras,veg
-70,Extra Gunpowder,South Indian,extras,veg
-71,Curd,South Indian,extras,veg
-72,Banana Chips,South Indian,extras,veg
-73,Medu Vada,South Indian,extras,veg
-74,Samosa,South Indian,extras,veg
-75,Masala Vada,South Indian,extras,veg
-76,Filter Coffee,South Indian,desserts & beverages,veg
-77,Buttermilk,South Indian,desserts & beverages,veg
-78,Kesari Bath,South Indian,desserts & beverages,veg
-79,Rava Kesari,South Indian,desserts & beverages,veg
-80,Payasam,South Indian,desserts & beverages,veg
-81,Mysore Pak,South Indian,desserts & beverages,veg
-82,Coconut Ladoo,South Indian,desserts & beverages,veg
-83,Jaggery Ladoo,South Indian,desserts & beverages,veg
-84,Chicken Biryani,Biryani,mains,nonveg
-85,Mutton Biryani,Biryani,mains,nonveg
-86,Veg Biryani,Biryani,mains,veg
-87,Paneer Biryani,Biryani,mains,veg
-88,Egg Biryani,Biryani,mains,egg
-89,Hyderabadi Chicken Biryani,Biryani,mains,nonveg
-90,Lucknowi Chicken Biryani,Biryani,mains,nonveg
-91,Kolkata Chicken Biryani,Biryani,mains,nonveg
-92,Donne Mutton Biryani,Biryani,mains,nonveg
-93,Donne Chicken Biryani,Biryani,mains,nonveg
-94,Boneless Chicken Biryani,Biryani,mains,nonveg
-95,Prawn Biryani,Biryani,mains,nonveg
-96,Fish Biryani,Biryani,mains,nonveg
-97,Mushroom Biryani,Biryani,mains,veg
-98,Paneer Tikka Biryani,Biryani,mains,veg
-99,Chicken 65,Biryani,appetizers,nonveg
-100,Paneer 65,Biryani,appetizers,veg
-101,Mutton Chops,Biryani,appetizers,nonveg
-102,Fish Fry,Biryani,appetizers,nonveg
-103,Prawn Fry,Biryani,appetizers,nonveg
-104,Chicken Tikka,Biryani,appetizers,nonveg
-105,Tandoori Chicken,Biryani,appetizers,nonveg
-106,Paneer Tikka,Biryani,appetizers,veg
-107,Chicken Seekh Kabab,Biryani,appetizers,nonveg
-108,Hara Bhara Chicken Kabab,Biryani,appetizers,nonveg
-109,Aloo Tikki,Biryani,appetizers,veg
-110,Fish Amritsari,Biryani,appetizers,nonveg
-111,Raita,Biryani,complements,veg
-112,Green Salad,Biryani,complements,veg
-113,Mint Chutney,Biryani,complements,veg
-114,Onion Salad,Biryani,complements,veg
-115,Cucumber Salad,Biryani,complements,veg
-116,Extra Masala,Biryani,extras,veg
-117,Extra Gravy,Biryani,extras,veg
-118,Boiled Egg,Biryani,extras,egg
-119,Gulab Jamun,Biryani,desserts & beverages,veg
-120,Rasgulla,Biryani,desserts & beverages,veg
-121,Rasmalai,Biryani,desserts & beverages,veg
-122,Kheer,Biryani,desserts & beverages,veg
-123,Rabri,Biryani,desserts & beverages,veg
-124,Lassi,Biryani,desserts & beverages,veg
-125,Chai,Biryani,desserts & beverages,veg
-126,Badam Milk,Biryani,desserts & beverages,veg
-127,Margherita Pizza,Italian,mains,veg
-128,Chicken Farmhouse Pizza,Italian,mains,nonveg
-129,Chicken Pepperoni Pizza,Italian,mains,nonveg
-130,Veggie Supreme Pizza,Italian,mains,egg
-131,Paneer Pizza,Italian,mains,veg
-132,White Sauce Pasta (Chicken),Italian,mains,nonveg
-133,White Sauce Pasta (Veg),Italian,mains,veg
-134,Red Sauce Pasta (Chicken),Italian,mains,nonveg
-135,Red Sauce Pasta (Veg),Italian,mains,veg
-136,Lasagna Veg,Italian,mains,veg
-137,Lasagna Chicken,Italian,mains,nonveg
-138,Risotto,Italian,mains,veg
-139,Garlic Bread,Italian,mains,veg
-140,Cheese Garlic Bread,Italian,mains,veg
-141,Bruschetta,Italian,mains,veg
-142,Calzone,Italian,mains,veg
-143,Garlic Bread,Italian,appetizers,veg
-144,Cheese Garlic Bread,Italian,appetizers,veg
-145,Bruschetta,Italian,appetizers,veg
-146,Stuffed Mushrooms,Italian,appetizers,veg
-147,Mozzarella Sticks,Italian,appetizers,veg
-148,Chicken Wings,Italian,appetizers,nonveg
-149,Boneless Chicken Bites,Italian,appetizers,nonveg
-150,Potato Wedges,Italian,appetizers,veg
-151,Marinara Sauce,Italian,complements,veg
-152,Alfredo Sauce,Italian,complements,veg
-153,Pesto Sauce,Italian,complements,veg
-154,Arrabbiata Sauce,Italian,complements,veg
-155,Bolognese Sauce,Italian,complements,veg
-156,Olives,Italian,complements,veg
-157,Jalapenos,Italian,complements,veg
-158,Mushrooms,Italian,complements,veg
-159,Bell Peppers,Italian,complements,veg
-160,Chilli Flakes,Italian,extras,veg
-161,Oregano,Italian,extras,veg
-162,Garlic Dip,Italian,extras,veg
-163,Cheese Dip,Italian,extras,veg
-164,Sour Cream Dip,Italian,extras,veg
-165,Marinara Dip,Italian,extras,veg
-166,French Fries,Italian,extras,veg
-167,Onion Rings,Italian,extras,veg
-168,Coleslaw,Italian,extras,veg
-169,Caesar Salad,Italian,extras,veg
-170,Tiramisu,Italian,desserts & beverages,veg
-171,Choco Lava Cake,Italian,desserts & beverages,veg
-172,Panna Cotta,Italian,desserts & beverages,veg
-173,Gelato,Italian,desserts & beverages,veg
-174,Affogato,Italian,desserts & beverages,veg
-175,Espresso,Italian,desserts & beverages,veg
-176,Cappuccino,Italian,desserts & beverages,veg
-177,Latte,Italian,desserts & beverages,veg
-178,Veg Fried Rice,Chinese,mains,veg
-179,Chicken Fried Rice,Chinese,mains,nonveg
-180,Egg Fried Rice,Chinese,mains,egg
-181,Schezwan Veg Fried Rice,Chinese,mains,veg
-182,Schezwan Chicken Noodles,Chinese,mains,nonveg
-183,Veg Noodles,Chinese,mains,veg
-184,Chicken Noodles,Chinese,mains,nonveg
-185,Chicken Hakka Noodles,Chinese,mains,nonveg
-186,Veg Spring Rolls,Chinese,appetizers,veg
-187,Chicken Spring Rolls,Chinese,appetizers,nonveg
-188,Veg Dim Sum,Chinese,appetizers,veg
-189,Chicken Dim Sum,Chinese,appetizers,nonveg
-190,Veg Manchurian,Chinese,appetizers,veg
-191,Chicken Manchurian,Chinese,appetizers,nonveg
-192,Chilli Chicken,Chinese,appetizers,nonveg
-193,Chilli Paneer,Chinese,appetizers,veg
-194,Schezwan Sauce,Chinese,complements,veg
-195,Soy Sauce,Chinese,complements,veg
-196,Chilli Vinegar,Chinese,complements,veg
-197,Chilli Oil,Chinese,complements,veg
-198,Extra Manchurian Gravy,Chinese,complements,veg
-199,Veg Clear Soup,Chinese,complements,veg
-200,Chicken Clear Soup,Chinese,complements,nonveg
-201,Extra Schezwan Sauce,Chinese,extras,veg
-202,Extra Soy Sauce,Chinese,extras,veg
-203,Extra Chilli Vinegar,Chinese,extras,veg
-204,Extra Chilli Oil,Chinese,extras,veg
-205,Extra Manchurian Gravy,Chinese,extras,veg
-206,Green Tea,Chinese,desserts & beverages,veg
-207,Black Tea,Chinese,desserts & beverages,veg
-208,Lemon Tea,Chinese,desserts & beverages,veg
-209,Chrysanthemum Tea,Chinese,desserts & beverages,veg
-210,Red Bean Buns,Chinese,desserts & beverages,veg
-211,Egg Custard Buns,Chinese,desserts & beverages,egg
-212,Fortune Cookies,Chinese,desserts & beverages,veg
-213,Veg Burger,Fast Food,mains,veg
-214,Chicken Burger,Fast Food,mains,nonveg
-215,Cheese Burger,Fast Food,mains,veg
-216,Aloo Burger,Fast Food,mains,veg
-217,Veg Wrap,Fast Food,mains,veg
-218,Chicken Wrap,Fast Food,mains,nonveg
-219,Paneer Wrap,Fast Food,mains,veg
-220,Veg Sandwich,Fast Food,mains,veg
-221,Chicken Sandwich,Fast Food,mains,nonveg
-222,Veg Club Sandwich,Fast Food,mains,veg
-223,French Fries,Fast Food,appetizers,veg
-224,Loaded Fries,Fast Food,appetizers,veg
-225,Chicken Nuggets,Fast Food,appetizers,nonveg
-226,Veg Nuggets,Fast Food,appetizers,veg
-227,Potato Wedges,Fast Food,appetizers,veg
-228,Chicken Popcorn,Fast Food,appetizers,nonveg
-229,Veg Popcorn,Fast Food,appetizers,veg
-230,Chicken Wings,Fast Food,appetizers,nonveg
-231,Chicken Momos,Fast Food,appetizers,nonveg
-232,Veg Momos,Fast Food,appetizers,veg
-233,Ketchup,Fast Food,complements,veg
-234,Mayonnaise,Fast Food,complements,veg
-235,Mustard,Fast Food,complements,veg
-236,Peri Peri Sauce,Fast Food,complements,veg
-237,BBQ Sauce,Fast Food,complements,veg
-238,Cheese Dip,Fast Food,complements,veg
-239,Garlic Dip,Fast Food,complements,veg
-240,Sour Cream Dip,Fast Food,complements,veg
-241,Extra Cheese,Fast Food,extras,veg
-242,Extra Patty,Fast Food,extras,veg
-243,Extra Vegetables,Fast Food,extras,veg
-244,Onion Rings,Fast Food,extras,veg
-245,Coleslaw,Fast Food,extras,veg
-246,Chocolate Shake,Fast Food,desserts & beverages,veg
-247,Vanilla Shake,Fast Food,desserts & beverages,veg
-248,Strawberry Shake,Fast Food,desserts & beverages,veg
-249,Coke,Fast Food,desserts & beverages,veg
-250,7UP,Fast Food,desserts & beverages,veg
-251,Ice Cream,Fast Food,desserts & beverages,veg
-252,Sundae,Fast Food,desserts & beverages,veg
-253,Mojito Mocktail,Fast Food,desserts & beverages,veg
-254,Choco Lava Cake,Fast Food,desserts & beverages,veg
-255,Veg Salad,Healthy,mains,veg
-256,Chicken Salad,Healthy,mains,nonveg
-257,Paneer Salad,Healthy,mains,veg
-258,Greek Salad,Healthy,mains,veg
-259,Chicken Caesar Salad,Healthy,mains,nonveg
-260,Quinoa Salad,Healthy,mains,veg
-261,Protein Bowl Veg,Healthy,mains,veg
-262,Protein Bowl Chicken,Healthy,mains,nonveg
-263,Brown Rice Bowl,Healthy,mains,veg
-264,Grilled Chicken Bowl,Healthy,mains,nonveg
-265,Hummus with Vegetables,Healthy,appetizers,veg
-266,Greek Yogurt with Honey,Healthy,appetizers,veg
-267,Fruit Salad,Healthy,appetizers,veg
-268,Mixed Nuts,Healthy,appetizers,veg
-269,Roasted Chickpeas,Healthy,appetizers,veg
-270,Edamame Beans,Healthy,appetizers,veg
-271,Olive Oil,Healthy,complements,veg
-272,Balsamic Vinegar,Healthy,complements,veg
-273,Lemon Wedges,Healthy,complements,veg
-274,Chia Seeds,Healthy,complements,veg
-275,Flax Seeds,Healthy,complements,veg
-276,Peanut Butter,Healthy,complements,veg
-277,Extra Avocado,Healthy,extras,veg
-278,Extra Chicken,Healthy,extras,nonveg
-279,Extra Paneer,Healthy,extras,veg
-280,Boiled Egg,Healthy,extras,egg
-281,Chia Seeds,Healthy,extras,veg
-282,Flax Seeds,Healthy,extras,veg
-283,Peanut Butter,Healthy,extras,veg
-284,Fruit Salad,Healthy,desserts & beverages,veg
-285,Greek Yogurt with Honey,Healthy,desserts & beverages,veg
-286,Chia Pudding,Healthy,desserts & beverages,veg
-287,Protein Bar,Healthy,desserts & beverages,veg
-288,Almond Milk Smoothie,Healthy,desserts & beverages,veg
-289,Green Tea,Healthy,desserts & beverages,veg
-290,Black Coffee,Healthy,desserts & beverages,veg
-291,Mango Smoothie,Healthy,desserts & beverages,veg
-292,Strawberry Smoothie,Healthy,desserts & beverages,veg
-293,Protein Shake Chocolate,Healthy,desserts & beverages,veg
-294,Protein Shake Vanilla,Healthy,desserts & beverages,veg
+6,Aloo Paratha,North Indian,mains,veg
+7,Gobhi Paratha,North Indian,mains,veg
+8,Paneer Paratha,North Indian,mains,veg
+9,Tandoori Roti,North Indian,mains,veg
+10,Rumali Roti,North Indian,mains,veg
+11,Chole Bhature,North Indian,mains,veg
+12,Rajma Chawal,North Indian,mains,veg
+13,Paneer Tikka,North Indian,appetizers,veg
+14,Tandoori Chicken,North Indian,appetizers,nonveg
+15,Hara Bhara Chicken Kabab,North Indian,appetizers,nonveg
+16,Chicken Seekh Kabab,North Indian,appetizers,nonveg
+17,Aloo Tikki,North Indian,appetizers,veg
+18,Fish AmritsariEgg Bhurji,North Indian,appetizers,nonveg
+19,Paneer Pakora,North Indian,appetizers,veg
+20,Vegetable Pakora,North Indian,appetizers,veg
+21,Chicken Pakora,North Indian,appetizers,nonveg
+22,Egg Pakora,North Indian,appetizers,egg
+23,Butter Chicken,North Indian,complements,nonveg
+24,Paneer Butter Masala,North Indian,complements,veg
+25,Dal Makhani,North Indian,complements,veg
+26,Shahi Paneer,North Indian,complements,veg
+27,Kadai Paneer,North Indian,complements,veg
+28,Chicken Tikka Masala,North Indian,complements,nonveg
+29,Malai Kofta,North Indian,complements,veg
+30,Chicken Curry,North Indian,complements,nonveg
+31,Mutton Rogan Josh,North Indian,complements,nonveg
+32,Palak Paneer,North Indian,complements,veg
+33,Egg Curry,North Indian,complements,egg
+34,Egg Masala,North Indian,complements,egg
+35,Egg Bhurji Masala,North Indian,complements,egg
+36,Boondi Raita,North Indian,extras,veg
+37,Plain Curd,North Indian,extras,veg
+38,Mint Chutney,North Indian,extras,veg
+39,Onion Salad,North Indian,extras,veg
+40,Green Salad,North Indian,extras,veg
+41,Papad,North Indian,extras,veg
+42,Masala Papad,North Indian,extras,veg
+43,Pickle,North Indian,extras,veg
+44,Butter,North Indian,extras,veg
+45,Extra Gravy,North Indian,extras,veg
+46,Boiled Egg,North Indian,extras,egg
+47,Gulab Jamun,North Indian,desserts & beverages,veg
+48,Rasgulla,North Indian,desserts & beverages,veg
+49,Rasmalai,North Indian,desserts & beverages,veg
+50,Kheer,North Indian,desserts & beverages,veg
+51,Rabri,North Indian,desserts & beverages,veg
+52,Lassi,North Indian,desserts & beverages,veg
+53,Chai,North Indian,desserts & beverages,veg
+54,Badam Milk,North Indian,desserts & beverages,veg
+55,Masala Dosa,South Indian,mains,veg
+56,Plain Dosa,South Indian,mains,veg
+57,Rava Dosa,South Indian,mains,veg
+58,Onion Dosa,South Indian,mains,veg
+59,Set Dosa,South Indian,mains,veg
+60,Idli,South Indian,mains,veg
+61,Vada,South Indian,mains,veg
+62,Upma,South Indian,mains,veg
+63,Pongal,South Indian,mains,veg
+64,Uttapam,South Indian,mains,veg
+65,Paper Dosa,South Indian,mains,veg
+66,Mysore Masala Dosa,South Indian,mains,veg
+67,Appam,South Indian,mains,veg
+68,Curd Rice,South Indian,mains,veg
+69,Lemon Rice,South Indian,mains,veg
+70,Bisibelebath,South Indian,mains,veg
+71,Neer Dosa,South Indian,mains,veg
+72,Kerala Parotta,South Indian,mains,veg
+73,Egg Dosa,South Indian,mains,egg
+74,Mini Tiffin,South Indian,mains,veg
+75,Egg Uttapam,South Indian,mains,egg
+76,Egg Parotta,South Indian,mains,egg
+77,Chicken Dosa,South Indian,mains,nonveg
+78,Chicken Uttapam,South Indian,mains,nonveg
+79,Chicken Parotta,South Indian,mains,nonveg
+80,Gobi 65,South Indian,appetizers,veg
+81,Paneer 65,South Indian,appetizers,veg
+82,Chicken 65,South Indian,appetizers,nonveg
+83,Medu Vada,South Indian,appetizers,veg
+84,Egg 65,South Indian,appetizers,egg
+85,Egg Kalaki,South Indian,appetizers,egg
+86,Sambar,South Indian,complements,veg
+87,Curd,South Indian,complements,veg
+88,Coconut Chutney,South Indian,complements,veg
+89,Tomato Chutney,South Indian,complements,veg
+90,Mint Chutney,South Indian,complements,veg
+91,Spicy Onion Chutney,South Indian,complements,veg
+92,Mushroom Curry,South Indian,complements,veg
+93,Chicken Curry,South Indian,complements,nonveg
+94,Mutton Curry,South Indian,complements,nonveg
+95,Egg Curry,South Indian,complements,egg
+96,Chettinadu Chicken Curry,South Indian,complements,nonveg
+97,Chettinadu Mutton Curry,South Indian,complements,nonveg
+98,Chettinadu Egg Curry,South Indian,complements,egg
+99,Extra Sambar,South Indian,extras,veg
+100,Extra Coconut Chutney,South Indian,extras,veg
+101,Extra Tomato Chutney,South Indian,extras,veg
+102,Gunpowder,South Indian,extras,veg
+103,Medu Vada,South Indian,extras,veg
+104,Samosa,South Indian,extras,veg
+105,Masala Vada,South Indian,extras,veg
+106,Filter Coffee,South Indian,desserts & beverages,veg
+107,Buttermilk,South Indian,desserts & beverages,veg
+108,Rava Kesari,South Indian,desserts & beverages,veg
+109,Payasam,South Indian,desserts & beverages,veg
+110,Mysore Pak,South Indian,desserts & beverages,veg
+111,Coconut Ladoo,South Indian,desserts & beverages,veg
+112,Jaggery Ladoo,South Indian,desserts & beverages,veg
+113,Chicken Biryani,Biryani,mains,nonveg
+114,Mutton Biryani,Biryani,mains,nonveg
+115,Veg Biryani,Biryani,mains,veg
+116,Paneer Biryani,Biryani,mains,veg
+117,Egg Biryani,Biryani,mains,egg
+118,Egg 65 Biryani,Biryani,mains,egg
+119,Hyderabadi Chicken Biryani,Biryani,mains,nonveg
+120,Lucknowi Chicken Biryani,Biryani,mains,nonveg
+121,Kolkata Chicken Biryani,Biryani,mains,nonveg
+122,Donne Mutton Biryani,Biryani,mains,nonveg
+123,Donne Chicken Biryani,Biryani,mains,nonveg
+124,Boneless Chicken Biryani,Biryani,mains,nonveg
+125,Prawn Biryani,Biryani,mains,nonveg
+126,Fish Biryani,Biryani,mains,nonveg
+127,Mushroom Biryani,Biryani,mains,veg
+128,Chicken 65,Biryani,appetizers,nonveg
+129,Paneer 65,Biryani,appetizers,veg
+130,Mutton Chops,Biryani,appetizers,nonveg
+131,Fish Fry,Biryani,appetizers,nonveg
+132,Prawn Fry,Biryani,appetizers,nonveg
+133,Chicken Tikka,Biryani,appetizers,nonveg
+134,Tandoori Chicken,Biryani,appetizers,nonveg
+135,Paneer Tikka,Biryani,appetizers,veg
+136,Chicken Seekh Kabab,Biryani,appetizers,nonveg
+137,Hara Bhara Chicken Kabab,Biryani,appetizers,nonveg
+138,Aloo Tikki,Biryani,appetizers,veg
+139,Fish Amritsari,Biryani,appetizers,nonveg
+140,Egg Bhurji,Biryani,appetizers,egg
+141,Egg 65,Biryani,appetizers,egg
+142,Egg Pakora,Biryani,appetizers,egg
+143,Chicken Pakora,Biryani,appetizers,nonveg
+144,Chettinad Chicken Curry,Biryani,complements,nonveg
+145,Chettinad Mutton Curry,Biryani,complements,nonveg
+146,Chettinad Egg Curry,Biryani,complements,egg
+147,Chicken Curry,Biryani,complements,nonveg
+148,Mutton Curry,Biryani,complements,nonveg
+149,Egg Curry,Biryani,complements,egg
+150,Paneer Butter Masala,Biryani,complements,veg
+151,Dal Makhani,Biryani,complements,veg
+152,Shahi Paneer,Biryani,complements,veg
+153,Kadai Paneer,Biryani,complements,veg
+154,Chicken Tikka Masala,Biryani,complements,nonveg
+155,Malai Kofta,Biryani,complements,veg
+156,Palak Paneer,Biryani,complements,veg
+157,Egg Masala,Biryani,complements,egg
+158,Egg Bhurji Masala,Biryani,complements,egg
+159,Extra Masala,Biryani,extras,veg
+160,Extra Gravy,Biryani,extras,veg
+161,Boiled Egg,Biryani,extras,egg
+162,Raita,Biryani,extras,veg
+163,Green Salad,Biryani,extras,veg
+164,Mint Chutney,Biryani,extras,veg
+165,Onion Salad,Biryani,extras,veg
+166,Cucumber Salad,Biryani,extras,veg
+167,Salan,Biryani,extras,veg
+168,Mirchi Ka Salan,Biryani,extras,veg
+169,Gulab Jamun,Biryani,desserts & beverages,veg
+170,Rasgulla,Biryani,desserts & beverages,veg
+171,Rasmalai,Biryani,desserts & beverages,veg
+172,Kheer,Biryani,desserts & beverages,veg
+173,Rabri,Biryani,desserts & beverages,veg
+174,Lassi,Biryani,desserts & beverages,veg
+175,Chai,Biryani,desserts & beverages,veg
+176,Badam Milk,Biryani,desserts & beverages,veg
+177,Margherita Pizza,Italian,mains,veg
+178,Chicken Farmhouse Pizza,Italian,mains,nonveg
+179,Chicken Pepperoni Pizza,Italian,mains,nonveg
+180,Veggie Supreme Pizza,Italian,mains,egg
+181,Paneer Pizza,Italian,mains,veg
+182,White Sauce Pasta (Chicken),Italian,mains,nonveg
+183,White Sauce Pasta (Veg),Italian,mains,veg
+184,Red Sauce Pasta (Chicken),Italian,mains,nonveg
+185,Red Sauce Pasta (Veg),Italian,mains,veg
+186,Lasagna Veg,Italian,mains,veg
+187,Lasagna Chicken,Italian,mains,nonveg
+188,Chicken Risotto,Italian,mains,nonveg
+189,Garlic Bread,Italian,mains,veg
+190,Cheese Garlic Bread,Italian,mains,veg
+191,Garlic Bread,Italian,appetizers,veg
+192,Cheese Garlic Bread,Italian,appetizers,veg
+193,Bruschetta,Italian,appetizers,veg
+194,Stuffed Mushrooms,Italian,appetizers,veg
+195,Mozzarella Sticks,Italian,appetizers,veg
+196,Chicken Wings,Italian,appetizers,nonveg
+197,Boneless Chicken Bites,Italian,appetizers,nonveg
+198,Potato Wedges,Italian,appetizers,veg
+199,Poached Eggs,Italian,appetizers,egg
+200,Sunny Side Up Eggs,Italian,appetizers,egg
+201,CHicken Caesar Salad,Italian,appetizers,nonveg
+202,Veg Caesar Salad,Italian,appetizers,veg
+203,Marinara Sauce,Italian,complements,veg
+204,Alfredo Sauce,Italian,complements,veg
+205,Pesto Sauce,Italian,complements,veg
+206,Arrabbiata Sauce,Italian,complements,veg
+207,Bolognese Sauce,Italian,complements,veg
+208,Chilli Flakes,Italian,extras,veg
+209,Oregano,Italian,extras,veg
+210,Garlic Dip,Italian,extras,veg
+211,Cheese Dip,Italian,extras,veg
+212,Sour Cream Dip,Italian,extras,veg
+213,Marinara Dip,Italian,extras,veg
+214,French Fries,Italian,extras,veg
+215,Onion Rings,Italian,extras,veg
+216,Coleslaw,Italian,extras,veg
+217,Tiramisu,Italian,desserts & beverages,veg
+218,Choco Lava Cake,Italian,desserts & beverages,veg
+219,Panna Cotta,Italian,desserts & beverages,veg
+220,Gelato,Italian,desserts & beverages,veg
+221,Affogato,Italian,desserts & beverages,veg
+222,Espresso,Italian,desserts & beverages,veg
+223,Cappuccino,Italian,desserts & beverages,veg
+224,Latte,Italian,desserts & beverages,veg
+225,Veg Fried Rice,Chinese,mains,veg
+226,Chicken Fried Rice,Chinese,mains,nonveg
+227,Egg Fried Rice,Chinese,mains,egg
+228,Schezwan Veg Fried Rice,Chinese,mains,veg
+229,Schezwan Chicken Fried Rice,Chinese,mains,nonveg
+230,Schezwan Egg Fried Rice,Chinese,mains,egg
+231,Veg Noodles,Chinese,mains,veg
+232,Chicken Noodles,Chinese,mains,nonveg
+233,Egg Noodles,Chinese,mains,egg
+234,Veg Hakka Noodles,Chinese,mains,veg
+235,Chicken Hakka Noodles,Chinese,mains,nonveg
+236,Egg Hakka Noodles,Chinese,mains,egg
+237,Veg Spring Rolls,Chinese,appetizers,veg
+238,Chicken Spring Rolls,Chinese,appetizers,nonveg
+239,Veg Dim Sum,Chinese,appetizers,veg
+240,Chicken Dim Sum,Chinese,appetizers,nonveg
+241,Veg Manchurian (Dry),Chinese,appetizers,veg
+242,Chicken Manchurian (Dry),Chinese,appetizers,nonveg
+243,Chilli Chicken (Dry),Chinese,appetizers,nonveg
+244,Chilli Paneer (Dry),Chinese,appetizers,veg
+245,Egg Manchurian (Dry),Chinese,appetizers,egg
+246,Egg Chilli (Dry),Chinese,appetizers,egg
+247,Chicken Lollipop,Chinese,appetizers,nonveg
+248,Chilli Chicken (Gravy),Chinese,complements,nonveg
+249,Chilli Paneer (Gravy),Chinese,complements,veg
+250,Egg Manchurian (Gravy),Chinese,complements,egg
+251,Egg Chilli (Gravy),Chinese,complements,egg
+252,Chicken Manchurian (Gravy),Chinese,complements,nonveg
+253,Veg Manchurian (Gravy),Chinese,complements,veg
+254,Schezwan Chicken (Gravy),Chinese,complements,nonveg
+255,Schezwan Paneer (Gravy),Chinese,complements,veg
+256,Schezwan Egg (Gravy),Chinese,complements,egg
+257,Extra Schezwan Sauce,Chinese,extras,veg
+258,Extra Soy Sauce,Chinese,extras,veg
+259,Extra Chilli Vinegar,Chinese,extras,veg
+260,Extra Chilli Oil,Chinese,extras,veg
+261,Extra Manchurian Gravy,Chinese,extras,veg
+262,Green Tea,Chinese,desserts & beverages,veg
+263,Black Tea,Chinese,desserts & beverages,veg
+264,Lemon Tea,Chinese,desserts & beverages,veg
+265,Egg Custard Buns,Chinese,desserts & beverages,egg
+266,Vanilla Ice Cream,Chinese,desserts & beverages,veg
+267,Chocolate Ice Cream,Chinese,desserts & beverages,veg
+268,Vanilla Milkshake,Chinese,desserts & beverages,veg
+269,Chocolate Milkshake,Chinese,desserts & beverages,veg
+270,Veg Burger,Fast Food,mains,veg
+271,Chicken Burger,Fast Food,mains,nonveg
+272,Aloo Burger,Fast Food,mains,veg
+273,Veg Wrap,Fast Food,mains,veg
+274,Chicken Wrap,Fast Food,mains,nonveg
+275,Egg Wrap,Fast Food,mains,egg
+276,Paneer Wrap,Fast Food,mains,veg
+277,Veg Sandwich,Fast Food,mains,veg
+278,Chicken Sandwich,Fast Food,mains,nonveg
+279,Egg Sandwich,Fast Food,mains,egg
+280,Chicken Nuggets,Fast Food,appetizers,nonveg
+281,Veg Nuggets,Fast Food,appetizers,veg
+282,Potato Wedges,Fast Food,appetizers,veg
+283,Chicken Popcorn,Fast Food,appetizers,nonveg
+284,Veg Popcorn,Fast Food,appetizers,veg
+285,Chicken Wings,Fast Food,appetizers,nonveg
+286,Chicken Momos,Fast Food,appetizers,nonveg
+287,Veg Momos,Fast Food,appetizers,veg
+288,French Fries,Fast Food,complements,veg
+289,Loaded Fries,Fast Food,complements,veg
+290,Cheese Fries,Fast Food,complements,veg
+291,Onion Rings,Fast Food,complements,veg
+292,Baked Beans,Fast Food,complements,veg
+293,Extra Cheese,Fast Food,extras,veg
+294,Ketchup,Fast Food,extras,veg
+295,Mayonnaise,Fast Food,extras,veg
+296,Mustard,Fast Food,extras,veg
+297,Peri Peri Sauce,Fast Food,extras,veg
+298,BBQ Sauce,Fast Food,extras,veg
+299,Cheese Dip,Fast Food,extras,veg
+300,Garlic Dip,Fast Food,extras,veg
+301,Sour Cream Dip,Fast Food,extras,veg
+302,Chocolate Milkshake,Fast Food,desserts & beverages,veg
+303,Vanilla Milkshake,Fast Food,desserts & beverages,veg
+304,Strawberry Milkshake,Fast Food,desserts & beverages,veg
+305,Coke,Fast Food,desserts & beverages,veg
+306,7UP,Fast Food,desserts & beverages,veg
+307,Vanilla Ice Cream,Fast Food,desserts & beverages,veg
+308,Chocolate Ice Cream,Fast Food,desserts & beverages,veg
+309,Brownie Sundae,Fast Food,desserts & beverages,veg
+310,Mojito,Fast Food,desserts & beverages,veg
+311,Choco Lava Cake,Fast Food,desserts & beverages,veg
+312,Veg Salad,Healthy,mains,veg
+313,Chicken Salad,Healthy,mains,nonveg
+314,Paneer Salad,Healthy,mains,veg
+315,Egg Salad,Healthy,mains,egg
+316,Greek Salad,Healthy,mains,veg
+317,Chicken Caesar Salad,Healthy,mains,nonveg
+318,Quinoa Salad,Healthy,mains,veg
+319,Protein Bowl Veg,Healthy,mains,veg
+320,Protein Bowl Chicken,Healthy,mains,nonveg
+321,Brown Rice Veg Bowl,Healthy,mains,veg
+322,Grilled Chicken Bowl,Healthy,mains,nonveg
+323,Egg Rice Bowl,Healthy,mains,egg
+324,Fruit Salad,Healthy,appetizers,veg
+325,Mixed Nuts,Healthy,appetizers,veg
+326,Roasted Chickpeas,Healthy,appetizers,veg
+327,Edamame Beans,Healthy,appetizers,veg
+328,Egg White Omelette,Healthy,appetizers,egg
+329,Grilled Chicken Strips,Healthy,appetizers,nonveg
+330,Egg Sandwich,Healthy,appetizers,egg
+331,Lemon Wedges,Healthy,complements,veg
+332,Chia Seeds,Healthy,complements,veg
+333,Flax Seeds,Healthy,complements,veg
+334,Peanut Butter,Healthy,complements,veg
+335,Boiled Egg,Healthy,complements,egg
+336,Avocado Slices,Healthy,complements,veg
+337,Tofu Cubes,Healthy,complements,veg
+338,Extra Avocado,Healthy,extras,veg
+339,Extra Chicken,Healthy,extras,nonveg
+340,Extra Paneer,Healthy,extras,veg
+341,Extra Egg,Healthy,extras,egg
+342,Chia Pudding,Healthy,desserts & beverages,veg
+343,Protein Bar,Healthy,desserts & beverages,veg
+344,Almond Milk Smoothie,Healthy,desserts & beverages,veg
+345,Green Tea,Healthy,desserts & beverages,veg
+346,Black Coffee,Healthy,desserts & beverages,veg
+347,Mango Smoothie,Healthy,desserts & beverages,veg
+348,Strawberry Smoothie,Healthy,desserts & beverages,veg
+349,Protein Shake Chocolate,Healthy,desserts & beverages,veg
+350,Protein Shake Vanilla,Healthy,desserts & beverages,veg
