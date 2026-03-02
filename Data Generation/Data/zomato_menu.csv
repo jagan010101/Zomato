@@ -1,352 +1,352 @@
-Item ID,Item Name,Cuisine,Course,Veg Type,Base Price,Base Multiplier,Budget Price,Premium Price
-0,Amritsari Kulcha,North Indian,mains,veg,150.0,1.0,127,187
-1,Jeera Rice,North Indian,mains,veg,150.0,1.0,127,187
-2,Veg Pulao,North Indian,mains,veg,150.0,1.0,127,187
-3,Lachha Paratha,North Indian,mains,veg,150.0,1.0,127,187
-4,Garlic Naan,North Indian,mains,veg,150.0,1.0,127,187
-5,Plain Naan,North Indian,mains,veg,150.0,0.9,114,168
-6,Aloo Paratha,North Indian,mains,veg,150.0,1.0,127,187
-7,Gobhi Paratha,North Indian,mains,veg,150.0,1.0,127,187
-8,Paneer Paratha,North Indian,mains,veg,150.0,1.18,150,221
-9,Tandoori Roti,North Indian,mains,veg,150.0,1.0,127,187
-10,Rumali Roti,North Indian,mains,veg,150.0,1.0,127,187
-11,Chole Bhature,North Indian,mains,veg,150.0,1.0,127,187
-12,Rajma Chawal,North Indian,mains,veg,150.0,1.0,127,187
-13,Paneer Tikka,North Indian,appetizers,veg,250.0,1.18,250,368
-14,Tandoori Chicken,North Indian,appetizers,nonveg,250.0,1.25,265,390
-15,Hara Bhara Chicken Kabab,North Indian,appetizers,nonveg,250.0,1.25,265,390
-16,Chicken Seekh Kabab,North Indian,appetizers,nonveg,250.0,1.25,265,390
-17,Aloo Tikki,North Indian,appetizers,veg,250.0,1.0,212,312
-18,Fish Amritsari,North Indian,appetizers,nonveg,250.0,1.6,340,500
-19,Egg Bhurji,North Indian,appetizers,egg,250.0,1.05,223,328
-20,Paneer Pakora,North Indian,appetizers,veg,250.0,1.18,250,368
-21,Vegetable Pakora,North Indian,appetizers,veg,250.0,1.0,212,312
-22,Chicken Pakora,North Indian,appetizers,nonveg,250.0,1.25,265,390
-23,Egg Pakora,North Indian,appetizers,egg,250.0,1.05,223,328
-24,Butter Chicken,North Indian,complements,nonveg,200.0,1.4375,244,359
-25,Paneer Butter Masala,North Indian,complements,veg,200.0,1.3569999999999998,230,339
-26,Dal Makhani,North Indian,complements,veg,200.0,1.0,170,250
-27,Shahi Paneer,North Indian,complements,veg,200.0,1.18,200,295
-28,Kadai Paneer,North Indian,complements,veg,200.0,1.18,200,295
-29,Chicken Tikka Masala,North Indian,complements,nonveg,200.0,1.25,212,312
-30,Malai Kofta,North Indian,complements,veg,200.0,1.0,170,250
-31,Chicken Curry,North Indian,complements,nonveg,200.0,1.25,212,312
-32,Mutton Rogan Josh,North Indian,complements,nonveg,200.0,1.45,246,362
-33,Palak Paneer,North Indian,complements,veg,200.0,1.18,200,295
-34,Egg Curry,North Indian,complements,egg,200.0,1.05,178,262
-35,Egg Masala,North Indian,complements,egg,200.0,1.05,178,262
-36,Egg Bhurji Masala,North Indian,complements,egg,200.0,1.05,178,262
-37,Boondi Raita,North Indian,extras,veg,50.0,1.0,42,62
-38,Plain Curd,North Indian,extras,veg,50.0,0.9,38,56
-39,Mint Chutney,North Indian,extras,veg,50.0,1.0,42,62
-40,Onion Salad,North Indian,extras,veg,50.0,1.0,42,62
-41,Green Salad,North Indian,extras,veg,50.0,1.0,42,62
-42,Papad,North Indian,extras,veg,50.0,1.0,42,62
-43,Masala Papad,North Indian,extras,veg,50.0,1.0,42,62
-44,Pickle,North Indian,extras,veg,50.0,1.0,42,62
-45,Butter,North Indian,extras,veg,50.0,1.15,48,71
-46,Extra Gravy,North Indian,extras,veg,50.0,1.0,42,62
-47,Boiled Egg,North Indian,extras,egg,50.0,1.05,44,65
-48,Gulab Jamun,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-49,Rasgulla,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-50,Rasmalai,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-51,Kheer,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-52,Rabri,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-53,Lassi,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-54,Chai,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-55,Badam Milk,North Indian,desserts & beverages,veg,110.0,1.0,93,137
-56,Masala Dosa,South Indian,mains,veg,127.5,1.0,108,159
-57,Plain Dosa,South Indian,mains,veg,127.5,0.9,97,143
-58,Rava Dosa,South Indian,mains,veg,127.5,1.0,108,159
-59,Onion Dosa,South Indian,mains,veg,127.5,1.0,108,159
-60,Set Dosa,South Indian,mains,veg,127.5,1.0,108,159
-61,Idli,South Indian,mains,veg,127.5,1.0,108,159
-62,Vada,South Indian,mains,veg,127.5,1.0,108,159
-63,Upma,South Indian,mains,veg,127.5,1.0,108,159
-64,Pongal,South Indian,mains,veg,127.5,1.0,108,159
-65,Uttapam,South Indian,mains,veg,127.5,1.0,108,159
-66,Paper Dosa,South Indian,mains,veg,127.5,1.0,108,159
-67,Mysore Masala Dosa,South Indian,mains,veg,127.5,1.0,108,159
-68,Appam,South Indian,mains,veg,127.5,1.0,108,159
-69,Curd Rice,South Indian,mains,veg,127.5,1.0,108,159
-70,Lemon Rice,South Indian,mains,veg,127.5,1.0,108,159
-71,Bisibelebath,South Indian,mains,veg,127.5,1.0,108,159
-72,Neer Dosa,South Indian,mains,veg,127.5,1.0,108,159
-73,Kerala Parotta,South Indian,mains,veg,127.5,1.0,108,159
-74,Egg Dosa,South Indian,mains,egg,127.5,1.05,113,167
-75,Mini Tiffin,South Indian,mains,veg,127.5,1.0,108,159
-76,Egg Uttapam,South Indian,mains,egg,127.5,1.05,113,167
-77,Egg Parotta,South Indian,mains,egg,127.5,1.05,113,167
-78,Chicken Dosa,South Indian,mains,nonveg,127.5,1.25,135,199
-79,Chicken Uttapam,South Indian,mains,nonveg,127.5,1.25,135,199
-80,Chicken Parotta,South Indian,mains,nonveg,127.5,1.25,135,199
-81,Gobi 65,South Indian,appetizers,veg,150.0,1.0,127,187
-82,Paneer 65,South Indian,appetizers,veg,150.0,1.18,150,221
-83,Chicken 65,South Indian,appetizers,nonveg,150.0,1.25,159,234
-84,Medu Vada,South Indian,appetizers,veg,150.0,1.0,127,187
-85,Egg 65,South Indian,appetizers,egg,150.0,1.05,133,196
-86,Egg Kalaki,South Indian,appetizers,egg,150.0,1.05,133,196
-87,Sambar,South Indian,complements,veg,80.0,1.0,68,100
-88,Curd,South Indian,complements,veg,80.0,1.0,68,100
-89,Coconut Chutney,South Indian,complements,veg,80.0,1.0,68,100
-90,Tomato Chutney,South Indian,complements,veg,80.0,1.0,68,100
-91,Mint Chutney,South Indian,complements,veg,80.0,1.0,68,100
-92,Spicy Onion Chutney,South Indian,complements,veg,80.0,1.0,68,100
-93,Mushroom Curry,South Indian,complements,veg,80.0,1.0,68,100
-94,Chicken Curry,South Indian,complements,nonveg,80.0,1.25,85,125
-95,Mutton Curry,South Indian,complements,nonveg,80.0,1.45,98,145
-96,Egg Curry,South Indian,complements,egg,80.0,1.05,71,105
-97,Chettinad Chicken Gravy,South Indian,complements,nonveg,80.0,1.25,85,125
-98,Chettinad Egg Gravy,South Indian,complements,egg,80.0,1.05,71,105
-99,Extra Sambar,South Indian,extras,veg,42.5,1.0,36,53
-100,Extra Coconut Chutney,South Indian,extras,veg,42.5,1.0,36,53
-101,Extra Tomato Chutney,South Indian,extras,veg,42.5,1.0,36,53
-102,Gunpowder,South Indian,extras,veg,42.5,1.0,36,53
-103,Medu Vada,South Indian,extras,veg,42.5,1.0,36,53
-104,Samosa,South Indian,extras,veg,42.5,1.0,36,53
-105,Masala Vada,South Indian,extras,veg,42.5,1.0,36,53
-106,Filter Coffee,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-107,Buttermilk,South Indian,desserts & beverages,veg,93.5,1.15,91,134
-108,Rava Kesari,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-109,Payasam,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-110,Mysore Pak,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-111,Coconut Ladoo,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-112,Jaggery Ladoo,South Indian,desserts & beverages,veg,93.5,1.0,79,116
-113,Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-114,Mutton Biryani,Biryani,mains,nonveg,200.0,1.45,246,362
-115,Veg Biryani,Biryani,mains,veg,200.0,1.0,170,250
-116,Paneer Biryani,Biryani,mains,veg,200.0,1.18,200,295
-117,Egg Biryani,Biryani,mains,egg,200.0,1.05,178,262
-118,Egg 65 Biryani,Biryani,mains,egg,200.0,1.05,178,262
-119,Hyderabadi Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-120,Lucknowi Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-121,Kolkata Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-122,Donne Mutton Biryani,Biryani,mains,nonveg,200.0,1.45,246,362
-123,Donne Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-124,Boneless Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312
-125,Prawn Biryani,Biryani,mains,nonveg,200.0,1.0,170,250
-126,Fish Biryani,Biryani,mains,nonveg,200.0,1.6,272,400
-127,Mushroom Biryani,Biryani,mains,veg,200.0,1.0,170,250
-128,Chicken 65,Biryani,appetizers,nonveg,300.0,1.25,318,468
-129,Paneer 65,Biryani,appetizers,veg,300.0,1.18,300,442
-130,Mutton Chops,Biryani,appetizers,nonveg,300.0,1.45,369,543
-131,Fish Fry,Biryani,appetizers,nonveg,300.0,1.6,408,600
-132,Prawn Fry,Biryani,appetizers,nonveg,300.0,1.0,255,375
-133,Chicken Tikka,Biryani,appetizers,nonveg,300.0,1.25,318,468
-134,Tandoori Chicken,Biryani,appetizers,nonveg,300.0,1.25,318,468
-135,Paneer Tikka,Biryani,appetizers,veg,300.0,1.18,300,442
-136,Chicken Seekh Kabab,Biryani,appetizers,nonveg,300.0,1.25,318,468
-137,Hara Bhara Chicken Kabab,Biryani,appetizers,nonveg,300.0,1.25,318,468
-138,Aloo Tikki,Biryani,appetizers,veg,300.0,1.0,255,375
-139,Fish Amritsari,Biryani,appetizers,nonveg,300.0,1.6,408,600
-140,Egg Bhurji,Biryani,appetizers,egg,300.0,1.05,267,393
-141,Egg 65,Biryani,appetizers,egg,300.0,1.05,267,393
-142,Egg Pakora,Biryani,appetizers,egg,300.0,1.05,267,393
-143,Chicken Pakora,Biryani,appetizers,nonveg,300.0,1.25,318,468
-144,Chettinad Chicken Curry,Biryani,complements,nonveg,120.0,1.25,127,187
-145,Chettinad Mutton Curry,Biryani,complements,nonveg,120.0,1.45,147,217
-146,Chettinad Egg Curry,Biryani,complements,egg,120.0,1.05,107,157
-147,Chicken Curry,Biryani,complements,nonveg,120.0,1.25,127,187
-148,Mutton Curry,Biryani,complements,nonveg,120.0,1.45,147,217
-149,Egg Curry,Biryani,complements,egg,120.0,1.05,107,157
-150,Paneer Butter Masala,Biryani,complements,veg,120.0,1.3569999999999998,138,203
-151,Dal Makhani,Biryani,complements,veg,120.0,1.0,102,150
-152,Shahi Paneer,Biryani,complements,veg,120.0,1.18,120,177
-153,Kadai Paneer,Biryani,complements,veg,120.0,1.18,120,177
-154,Chicken Tikka Masala,Biryani,complements,nonveg,120.0,1.25,127,187
-155,Malai Kofta,Biryani,complements,veg,120.0,1.0,102,150
-156,Palak Paneer,Biryani,complements,veg,120.0,1.18,120,177
-157,Egg Masala,Biryani,complements,egg,120.0,1.05,107,157
-158,Egg Bhurji Masala,Biryani,complements,egg,120.0,1.05,107,157
-159,Extra Masala,Biryani,extras,veg,60.0,1.0,51,75
-160,Extra Gravy,Biryani,extras,veg,60.0,1.0,51,75
-161,Boiled Egg,Biryani,extras,egg,60.0,1.05,53,78
-162,Raita,Biryani,extras,veg,60.0,1.0,51,75
-163,Green Salad,Biryani,extras,veg,60.0,1.0,51,75
-164,Mint Chutney,Biryani,extras,veg,60.0,1.0,51,75
-165,Onion Salad,Biryani,extras,veg,60.0,1.0,51,75
-166,Cucumber Salad,Biryani,extras,veg,60.0,1.0,51,75
-167,Salan,Biryani,extras,veg,60.0,1.0,51,75
-168,Mirchi Ka Salan,Biryani,extras,veg,60.0,1.0,51,75
-169,Gulab Jamun,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-170,Rasgulla,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-171,Rasmalai,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-172,Kheer,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-173,Rabri,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-174,Lassi,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-175,Chai,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-176,Badam Milk,Biryani,desserts & beverages,veg,132.0,1.0,112,165
-177,Margherita Pizza,Italian,mains,veg,250.0,1.0,212,312
-178,Chicken Farmhouse Pizza,Italian,mains,nonveg,250.0,1.25,265,390
-179,Chicken Pepperoni Pizza,Italian,mains,nonveg,250.0,1.25,265,390
-180,Veggie Supreme Pizza,Italian,mains,egg,250.0,1.05,223,328
-181,Paneer Pizza,Italian,mains,veg,250.0,1.18,250,368
-182,White Sauce Pasta (Chicken),Italian,mains,nonveg,250.0,1.25,265,390
-183,White Sauce Pasta (Veg),Italian,mains,veg,250.0,1.0,212,312
-184,Red Sauce Pasta (Chicken),Italian,mains,nonveg,250.0,1.25,265,390
-185,Red Sauce Pasta (Veg),Italian,mains,veg,250.0,1.0,212,312
-186,Lasagna Veg,Italian,mains,veg,250.0,1.0,212,312
-187,Lasagna Chicken,Italian,mains,nonveg,250.0,1.25,265,390
-188,Chicken Risotto,Italian,mains,nonveg,250.0,1.25,265,390
-189,Garlic Bread,Italian,mains,veg,250.0,1.0,212,312
-190,Cheese Garlic Bread,Italian,mains,veg,250.0,1.2,255,375
-191,Garlic Bread,Italian,appetizers,veg,150.0,1.0,127,187
-192,Cheese Garlic Bread,Italian,appetizers,veg,150.0,1.2,153,225
-193,Bruschetta,Italian,appetizers,veg,150.0,1.0,127,187
-194,Stuffed Mushrooms,Italian,appetizers,veg,150.0,1.0,127,187
-195,Mozzarella Sticks,Italian,appetizers,veg,150.0,1.0,127,187
-196,Chicken Wings,Italian,appetizers,nonveg,150.0,1.25,159,234
-197,Boneless Chicken Bites,Italian,appetizers,nonveg,150.0,1.25,159,234
-198,Potato Wedges,Italian,appetizers,veg,150.0,1.0,127,187
-199,Poached Eggs,Italian,appetizers,egg,150.0,1.05,133,196
-200,Sunny Side Up Eggs,Italian,appetizers,egg,150.0,1.05,133,196
-201,CHicken Caesar Salad,Italian,appetizers,nonveg,150.0,1.25,159,234
-202,Veg Caesar Salad,Italian,appetizers,veg,150.0,1.0,127,187
-203,Marinara Sauce,Italian,complements,veg,80.0,1.0,68,100
-204,Alfredo Sauce,Italian,complements,veg,80.0,1.0,68,100
-205,Pesto Sauce,Italian,complements,veg,80.0,1.0,68,100
-206,Arrabbiata Sauce,Italian,complements,veg,80.0,1.0,68,100
-207,Bolognese Sauce,Italian,complements,veg,80.0,1.0,68,100
-208,Chilli Flakes,Italian,extras,veg,70.0,1.0,59,87
-209,Oregano,Italian,extras,veg,70.0,1.0,59,87
-210,Garlic Dip,Italian,extras,veg,70.0,1.0,59,87
-211,Cheese Dip,Italian,extras,veg,70.0,1.2,71,105
-212,Sour Cream Dip,Italian,extras,veg,70.0,1.0,59,87
-213,Marinara Dip,Italian,extras,veg,70.0,1.0,59,87
-214,French Fries,Italian,extras,veg,70.0,1.0,59,87
-215,Onion Rings,Italian,extras,veg,70.0,1.0,59,87
-216,Coleslaw,Italian,extras,veg,70.0,1.0,59,87
-217,Tiramisu,Italian,desserts & beverages,veg,154.0,1.0,130,192
-218,Choco Lava Cake,Italian,desserts & beverages,veg,154.0,1.0,130,192
-219,Panna Cotta,Italian,desserts & beverages,veg,154.0,1.0,130,192
-220,Gelato,Italian,desserts & beverages,veg,154.0,1.0,130,192
-221,Affogato,Italian,desserts & beverages,veg,154.0,1.0,130,192
-222,Espresso,Italian,desserts & beverages,veg,154.0,1.0,130,192
-223,Cappuccino,Italian,desserts & beverages,veg,154.0,1.0,130,192
-224,Latte,Italian,desserts & beverages,veg,154.0,1.0,130,192
-225,Veg Fried Rice,Chinese,mains,veg,165.0,1.0,140,206
-226,Chicken Fried Rice,Chinese,mains,nonveg,165.0,1.25,175,257
-227,Egg Fried Rice,Chinese,mains,egg,165.0,1.05,147,216
-228,Schezwan Veg Fried Rice,Chinese,mains,veg,165.0,1.0,140,206
-229,Schezwan Chicken Fried Rice,Chinese,mains,nonveg,165.0,1.25,175,257
-230,Schezwan Egg Fried Rice,Chinese,mains,egg,165.0,1.05,147,216
-231,Veg Noodles,Chinese,mains,veg,165.0,1.0,140,206
-232,Chicken Noodles,Chinese,mains,nonveg,165.0,1.25,175,257
-233,Egg Noodles,Chinese,mains,egg,165.0,1.05,147,216
-234,Veg Hakka Noodles,Chinese,mains,veg,165.0,1.0,140,206
-235,Chicken Hakka Noodles,Chinese,mains,nonveg,165.0,1.25,175,257
-236,Egg Hakka Noodles,Chinese,mains,egg,165.0,1.05,147,216
-237,Veg Spring Rolls,Chinese,appetizers,veg,275.0,1.0,233,343
-238,Chicken Spring Rolls,Chinese,appetizers,nonveg,275.0,1.25,292,429
-239,Veg Dim Sum,Chinese,appetizers,veg,275.0,1.0,233,343
-240,Chicken Dim Sum,Chinese,appetizers,nonveg,275.0,1.25,292,429
-241,Veg Manchurian Dry,Chinese,appetizers,veg,275.0,1.0,233,343
-242,Chicken Manchurian Dry,Chinese,appetizers,nonveg,275.0,1.25,292,429
-243,Chilli Chicken Dry,Chinese,appetizers,nonveg,275.0,1.25,292,429
-244,Chilli Paneer Dry,Chinese,appetizers,veg,275.0,1.18,275,405
-245,Egg Manchurian Dry,Chinese,appetizers,egg,275.0,1.05,245,360
-246,Egg Chilli Dry,Chinese,appetizers,egg,275.0,1.05,245,360
-247,Chicken Lollipop,Chinese,appetizers,nonveg,275.0,1.25,292,429
-248,Chilli Chicken Gravy,Chinese,complements,nonveg,200.0,1.25,212,312
-249,Chilli Paneer Gravy,Chinese,complements,veg,200.0,1.18,200,295
-250,Egg Manchurian Gravy,Chinese,complements,egg,200.0,1.05,178,262
-251,Egg Chilli Gravy,Chinese,complements,egg,200.0,1.05,178,262
-252,Chicken Manchurian Gravy,Chinese,complements,nonveg,200.0,1.25,212,312
-253,Veg Manchurian Gravy,Chinese,complements,veg,200.0,1.0,170,250
-254,Schezwan Chicken Gravy,Chinese,complements,nonveg,200.0,1.25,212,312
-255,Schezwan Paneer Gravy,Chinese,complements,veg,200.0,1.18,200,295
-256,Schezwan Egg Gravy,Chinese,complements,egg,200.0,1.05,178,262
-257,Extra Schezwan Sauce,Chinese,extras,veg,55.00000000000001,1.0,46,68
-258,Extra Soy Sauce,Chinese,extras,veg,55.00000000000001,1.0,46,68
-259,Extra Chilli Vinegar,Chinese,extras,veg,55.00000000000001,1.0,46,68
-260,Extra Chilli Oil,Chinese,extras,veg,55.00000000000001,1.0,46,68
-261,Extra Manchurian Gravy,Chinese,extras,veg,55.00000000000001,1.0,46,68
-262,Green Tea,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-263,Black Tea,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-264,Lemon Tea,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-265,Egg Custard Buns,Chinese,desserts & beverages,egg,121.00000000000001,1.05,107,158
-266,Vanilla Ice Cream,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-267,Chocolate Ice Cream,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-268,Vanilla Milkshake,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-269,Chocolate Milkshake,Chinese,desserts & beverages,veg,121.00000000000001,1.0,102,151
-270,Veg Burger,Fast Food,mains,veg,135.0,1.0,114,168
-271,Chicken Burger,Fast Food,mains,nonveg,135.0,1.25,143,210
-272,Aloo Burger,Fast Food,mains,veg,135.0,1.0,114,168
-273,Veg Wrap,Fast Food,mains,veg,135.0,1.0,114,168
-274,Chicken Wrap,Fast Food,mains,nonveg,135.0,1.25,143,210
-275,Egg Wrap,Fast Food,mains,egg,135.0,1.05,120,177
-276,Paneer Wrap,Fast Food,mains,veg,135.0,1.18,135,199
-277,Veg Sandwich,Fast Food,mains,veg,135.0,1.0,114,168
-278,Chicken Sandwich,Fast Food,mains,nonveg,135.0,1.25,143,210
-279,Egg Sandwich,Fast Food,mains,egg,135.0,1.05,120,177
-280,Chicken Nuggets,Fast Food,appetizers,nonveg,225.0,1.25,239,351
-281,Veg Nuggets,Fast Food,appetizers,veg,225.0,1.0,191,281
-282,Potato Wedges,Fast Food,appetizers,veg,225.0,1.0,191,281
-283,Chicken Popcorn,Fast Food,appetizers,nonveg,225.0,1.25,239,351
-284,Veg Popcorn,Fast Food,appetizers,veg,225.0,1.0,191,281
-285,Chicken Wings,Fast Food,appetizers,nonveg,225.0,1.25,239,351
-286,Chicken Momos,Fast Food,appetizers,nonveg,225.0,1.25,239,351
-287,Veg Momos,Fast Food,appetizers,veg,225.0,1.0,191,281
-288,French Fries,Fast Food,complements,veg,90.0,1.0,76,112
-289,Loaded Fries,Fast Food,complements,veg,90.0,1.0,76,112
-290,Cheese Fries,Fast Food,complements,veg,90.0,1.2,91,135
-291,Onion Rings,Fast Food,complements,veg,90.0,1.0,76,112
-292,Baked Beans,Fast Food,complements,veg,90.0,1.0,76,112
-293,Extra Cheese,Fast Food,extras,veg,45.0,1.2,45,67
-294,Ketchup,Fast Food,extras,veg,45.0,1.0,38,56
-295,Mayonnaise,Fast Food,extras,veg,45.0,1.0,38,56
-296,Mustard,Fast Food,extras,veg,45.0,1.0,38,56
-297,Peri Peri Sauce,Fast Food,extras,veg,45.0,1.0,38,56
-298,BBQ Sauce,Fast Food,extras,veg,45.0,1.0,38,56
-299,Cheese Dip,Fast Food,extras,veg,45.0,1.2,45,67
-300,Garlic Dip,Fast Food,extras,veg,45.0,1.0,38,56
-301,Sour Cream Dip,Fast Food,extras,veg,45.0,1.0,38,56
-302,Chocolate Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-303,Vanilla Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-304,Strawberry Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-305,Coke,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-306,7UP,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-307,Vanilla Ice Cream,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-308,Chocolate Ice Cream,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-309,Brownie Sundae,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-310,Mojito,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-311,Choco Lava Cake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123
-312,Veg Salad,Healthy,mains,veg,180.0,1.0,153,225
-313,Chicken Salad,Healthy,mains,nonveg,180.0,1.25,191,281
-314,Paneer Salad,Healthy,mains,veg,180.0,1.18,180,265
-315,Egg Salad,Healthy,mains,egg,180.0,1.05,160,236
-316,Greek Salad,Healthy,mains,veg,180.0,1.0,153,225
-317,Chicken Caesar Salad,Healthy,mains,nonveg,180.0,1.25,191,281
-318,Quinoa Salad,Healthy,mains,veg,180.0,1.0,153,225
-319,Protein Bowl Veg,Healthy,mains,veg,180.0,1.0,153,225
-320,Protein Bowl Chicken,Healthy,mains,nonveg,180.0,1.25,191,281
-321,Brown Rice Veg Bowl,Healthy,mains,veg,180.0,1.0,153,225
-322,Grilled Chicken Bowl,Healthy,mains,nonveg,180.0,1.25,191,281
-323,Egg Rice Bowl,Healthy,mains,egg,180.0,1.05,160,236
-324,Fruit Salad,Healthy,appetizers,veg,300.0,1.0,255,375
-325,Mixed Nuts,Healthy,appetizers,veg,300.0,1.0,255,375
-326,Roasted Chickpeas,Healthy,appetizers,veg,300.0,1.0,255,375
-327,Edamame Beans,Healthy,appetizers,veg,300.0,1.0,255,375
-328,Egg White Omelette,Healthy,appetizers,egg,300.0,1.05,267,393
-329,Grilled Chicken Strips,Healthy,appetizers,nonveg,300.0,1.25,318,468
-330,Egg Sandwich,Healthy,appetizers,egg,300.0,1.05,267,393
-331,Lemon Wedges,Healthy,complements,veg,120.0,1.0,102,150
-332,Chia Seeds,Healthy,complements,veg,120.0,1.0,102,150
-333,Flax Seeds,Healthy,complements,veg,120.0,1.0,102,150
-334,Peanut Butter,Healthy,complements,veg,120.0,1.15,117,172
-335,Boiled Egg,Healthy,complements,egg,120.0,1.05,107,157
-336,Avocado Slices,Healthy,complements,veg,120.0,1.0,102,150
-337,Tofu Cubes,Healthy,complements,veg,120.0,1.0,102,150
-338,Extra Avocado,Healthy,extras,veg,60.0,1.0,51,75
-339,Extra Chicken,Healthy,extras,nonveg,60.0,1.25,63,93
-340,Extra Paneer,Healthy,extras,veg,60.0,1.18,60,88
-341,Extra Egg,Healthy,extras,egg,60.0,1.05,53,78
-342,Chia Pudding,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-343,Protein Bar,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-344,Almond Milk Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-345,Green Tea,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-346,Black Coffee,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-347,Mango Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-348,Strawberry Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-349,Protein Shake Chocolate,Healthy,desserts & beverages,veg,132.0,1.0,112,165
-350,Protein Shake Vanilla,Healthy,desserts & beverages,veg,132.0,1.0,112,165
+Item ID,Item Name,Cuisine,Course,Veg Type,Base Price,Base Multiplier,Budget Price,Premium Price,Items Ordered ID,Order Count,Popularity Score
+0,Amritsari Kulcha,North Indian,mains,veg,150.0,1.0,127,187,0,1653,0.36968966556191624
+1,Jeera Rice,North Indian,mains,veg,150.0,1.0,127,187,1,1700,0.3838505573968063
+2,Veg Pulao,North Indian,mains,veg,150.0,1.0,127,187,2,1702,0.3844531485387165
+3,Lachha Paratha,North Indian,mains,veg,150.0,1.0,127,187,3,1620,0.3597469117203977
+4,Garlic Naan,North Indian,mains,veg,150.0,1.0,127,187,4,1667,0.37390780355528774
+5,Plain Naan,North Indian,mains,veg,150.0,0.9,114,168,5,1660,0.37179873455860196
+6,Aloo Paratha,North Indian,mains,veg,150.0,1.0,127,187,6,1658,0.37119614341669177
+7,Gobhi Paratha,North Indian,mains,veg,150.0,1.0,127,187,7,1667,0.37390780355528774
+8,Paneer Paratha,North Indian,mains,veg,150.0,1.18,150,221,8,1685,0.3793311238324797
+9,Tandoori Roti,North Indian,mains,veg,150.0,1.0,127,187,9,1686,0.3796324194034348
+10,Rumali Roti,North Indian,mains,veg,150.0,1.0,127,187,10,1651,0.36908707442000604
+11,Chole Bhature,North Indian,mains,veg,150.0,1.0,127,187,11,1612,0.35733654715275687
+12,Rajma Chawal,North Indian,mains,veg,150.0,1.0,127,187,12,1598,0.35311840915938536
+13,Paneer Tikka,North Indian,appetizers,veg,250.0,1.18,250,368,13,2056,0.49111178065682437
+14,Tandoori Chicken,North Indian,appetizers,nonveg,250.0,1.25,265,390,14,1357,0.28050617655920457
+15,Hara Bhara Chicken Kabab,North Indian,appetizers,nonveg,250.0,1.25,265,390,15,1306,0.26514010244049413
+16,Chicken Seekh Kabab,North Indian,appetizers,nonveg,250.0,1.25,265,390,16,1356,0.28020488098824947
+17,Aloo Tikki,North Indian,appetizers,veg,250.0,1.0,212,312,17,2099,0.504067490207894
+18,Fish Amritsari,North Indian,appetizers,nonveg,250.0,1.6,340,500,18,1290,0.26031937330521243
+19,Egg Bhurji,North Indian,appetizers,egg,250.0,1.05,223,328,19,935,0.15335944561614945
+20,Paneer Pakora,North Indian,appetizers,veg,250.0,1.18,250,368,20,2126,0.5122024706236818
+21,Vegetable Pakora,North Indian,appetizers,veg,250.0,1.0,212,312,21,2097,0.5034648990659837
+22,Chicken Pakora,North Indian,appetizers,nonveg,250.0,1.25,265,390,22,1360,0.2814100632720699
+23,Egg Pakora,North Indian,appetizers,egg,250.0,1.05,223,328,23,839,0.12443507080445917
+24,Butter Chicken,North Indian,complements,nonveg,200.0,1.4375,244,359,24,887,0.1388972582103043
+25,Paneer Butter Masala,North Indian,complements,veg,200.0,1.3569999999999998,230,339,25,1337,0.27448026514010243
+26,Dal Makhani,North Indian,complements,veg,200.0,1.0,170,250,26,1342,0.27598674299487796
+27,Shahi Paneer,North Indian,complements,veg,200.0,1.18,200,295,27,1254,0.24947273275082857
+28,Kadai Paneer,North Indian,complements,veg,200.0,1.18,200,295,28,1258,0.250677915034649
+29,Chicken Tikka Masala,North Indian,complements,nonveg,200.0,1.25,212,312,29,913,0.1467309430551371
+30,Malai Kofta,North Indian,complements,veg,200.0,1.0,170,250,30,1263,0.2521843928894245
+31,Chicken Curry,North Indian,complements,nonveg,200.0,1.25,212,312,31,918,0.14823742090991263
+32,Mutton Rogan Josh,North Indian,complements,nonveg,200.0,1.45,246,362,32,905,0.14432057848749624
+33,Palak Paneer,North Indian,complements,veg,200.0,1.18,200,295,33,1279,0.2570051220247062
+34,Egg Curry,North Indian,complements,egg,200.0,1.05,178,262,34,552,0.03796324194034348
+35,Egg Masala,North Indian,complements,egg,200.0,1.05,178,262,35,544,0.03555287737270262
+36,Egg Bhurji Masala,North Indian,complements,egg,200.0,1.05,178,262,36,568,0.04278397107562519
+37,Boondi Raita,North Indian,extras,veg,50.0,1.0,42,62,37,815,0.11720397710153661
+38,Plain Curd,North Indian,extras,veg,50.0,0.9,38,56,38,792,0.11027417896956915
+39,Mint Chutney,North Indian,extras,veg,50.0,1.0,42,62,39,766,0.10244049412473637
+40,Onion Salad,North Indian,extras,veg,50.0,1.0,42,62,40,762,0.10123531184091594
+41,Green Salad,North Indian,extras,veg,50.0,1.0,42,62,41,800,0.11268454353721
+42,Papad,North Indian,extras,veg,50.0,1.0,42,62,42,794,0.11087677011147937
+43,Masala Papad,North Indian,extras,veg,50.0,1.0,42,62,43,769,0.10334438083760168
+44,Pickle,North Indian,extras,veg,50.0,1.0,42,62,44,761,0.10093401626996083
+45,Butter,North Indian,extras,veg,50.0,1.15,48,71,45,746,0.09641458270563423
+46,Extra Gravy,North Indian,extras,veg,50.0,1.0,42,62,46,811,0.11599879481771617
+47,Boiled Egg,North Indian,extras,egg,50.0,1.05,44,65,47,426,0.0
+48,Gulab Jamun,North Indian,desserts & beverages,veg,110.0,1.0,93,137,48,2753,0.7011147936125339
+49,Rasgulla,North Indian,desserts & beverages,veg,110.0,1.0,93,137,49,2621,0.6613437782464597
+50,Rasmalai,North Indian,desserts & beverages,veg,110.0,1.0,93,137,50,2662,0.6736968966556192
+51,Kheer,North Indian,desserts & beverages,veg,110.0,1.0,93,137,51,2745,0.698704429044893
+52,Rabri,North Indian,desserts & beverages,veg,110.0,1.0,93,137,52,2637,0.6661645073817415
+53,Lassi,North Indian,desserts & beverages,veg,110.0,1.0,93,137,53,2752,0.7008134980415788
+54,Chai,North Indian,desserts & beverages,veg,110.0,1.0,93,137,54,2640,0.6670683940946068
+55,Badam Milk,North Indian,desserts & beverages,veg,110.0,1.0,93,137,55,2627,0.6631515516721904
+56,Masala Dosa,South Indian,mains,veg,127.5,1.0,108,159,56,1078,0.19644471226272975
+57,Plain Dosa,South Indian,mains,veg,127.5,0.9,97,143,57,1069,0.19373305212413378
+58,Rava Dosa,South Indian,mains,veg,127.5,1.0,108,159,58,1043,0.18589936727930098
+59,Onion Dosa,South Indian,mains,veg,127.5,1.0,108,159,59,1022,0.17957216028924375
+60,Set Dosa,South Indian,mains,veg,127.5,1.0,108,159,60,1058,0.1904188008436276
+61,Idli,South Indian,mains,veg,127.5,1.0,108,159,61,1058,0.1904188008436276
+62,Vada,South Indian,mains,veg,127.5,1.0,108,159,62,1063,0.19192527869840315
+63,Upma,South Indian,mains,veg,127.5,1.0,108,159,63,980,0.16691774630912926
+64,Pongal,South Indian,mains,veg,127.5,1.0,108,159,64,1072,0.1946369388369991
+65,Uttapam,South Indian,mains,veg,127.5,1.0,108,159,65,1050,0.18800843627598673
+66,Paper Dosa,South Indian,mains,veg,127.5,1.0,108,159,66,1105,0.20457969267851764
+67,Mysore Masala Dosa,South Indian,mains,veg,127.5,1.0,108,159,67,1027,0.18107863814401928
+68,Appam,South Indian,mains,veg,127.5,1.0,108,159,68,1033,0.1828864115697499
+69,Curd Rice,South Indian,mains,veg,127.5,1.0,108,159,69,1057,0.1901175052726725
+70,Lemon Rice,South Indian,mains,veg,127.5,1.0,108,159,70,1087,0.1991563724013257
+71,Bisibelebath,South Indian,mains,veg,127.5,1.0,108,159,71,1084,0.19825248568846038
+72,Neer Dosa,South Indian,mains,veg,127.5,1.0,108,159,72,1089,0.1997589635432359
+73,Kerala Parotta,South Indian,mains,veg,127.5,1.0,108,159,73,1048,0.18740584513407652
+74,Egg Dosa,South Indian,mains,egg,127.5,1.05,113,167,74,545,0.035854172943657725
+75,Mini Tiffin,South Indian,mains,veg,127.5,1.0,108,159,75,1085,0.19855378125941547
+76,Egg Uttapam,South Indian,mains,egg,127.5,1.05,113,167,76,565,0.04188008436275987
+77,Egg Parotta,South Indian,mains,egg,127.5,1.05,113,167,77,590,0.04941247363663754
+78,Chicken Dosa,South Indian,mains,nonveg,127.5,1.25,135,199,78,1021,0.17927086471828865
+79,Chicken Uttapam,South Indian,mains,nonveg,127.5,1.25,135,199,79,1070,0.19403434769508887
+80,Chicken Parotta,South Indian,mains,nonveg,127.5,1.25,135,199,80,1039,0.18469418499548057
+81,Gobi 65,South Indian,appetizers,veg,150.0,1.0,127,187,81,3679,0.9801144923169629
+82,Paneer 65,South Indian,appetizers,veg,150.0,1.18,150,221,82,3710,0.9894546550165713
+83,Chicken 65,South Indian,appetizers,nonveg,150.0,1.25,159,234,83,3116,0.8104850858692377
+84,Medu Vada,South Indian,appetizers,veg,150.0,1.0,127,187,84,3745,1.0
+85,Egg 65,South Indian,appetizers,egg,150.0,1.05,133,196,85,1881,0.4383850557396806
+86,Egg Kalaki,South Indian,appetizers,egg,150.0,1.05,133,196,86,1984,0.46941849954805664
+87,Sambar,South Indian,complements,veg,80.0,1.0,68,100,87,1347,0.2774932208496535
+88,Curd,South Indian,complements,veg,80.0,1.0,68,100,88,1395,0.29195540825549865
+89,Coconut Chutney,South Indian,complements,veg,80.0,1.0,68,100,89,1373,0.28532690569448627
+90,Tomato Chutney,South Indian,complements,veg,80.0,1.0,68,100,90,1345,0.2768906297077433
+91,Mint Chutney,South Indian,complements,veg,80.0,1.0,68,100,91,1334,0.27357637842723714
+92,Spicy Onion Chutney,South Indian,complements,veg,80.0,1.0,68,100,92,1338,0.2747815607110575
+93,Mushroom Curry,South Indian,complements,veg,80.0,1.0,68,100,93,1318,0.2687556492919554
+94,Chicken Curry,South Indian,complements,nonveg,80.0,1.25,85,125,94,1114,0.20729135281711358
+95,Mutton Curry,South Indian,complements,nonveg,80.0,1.45,98,145,95,1129,0.21181078638144019
+96,Egg Curry,South Indian,complements,egg,80.0,1.05,71,105,96,689,0.07924073516119313
+97,Chettinad Chicken Gravy,South Indian,complements,nonveg,80.0,1.25,85,125,97,1118,0.20849653510093402
+98,Chettinad Egg Gravy,South Indian,complements,egg,80.0,1.05,71,105,98,659,0.07020186803253992
+99,Extra Sambar,South Indian,extras,veg,42.5,1.0,36,53,99,1393,0.2913528171135884
+100,Extra Coconut Chutney,South Indian,extras,veg,42.5,1.0,36,53,100,1308,0.2657426935824043
+101,Extra Tomato Chutney,South Indian,extras,veg,42.5,1.0,36,53,101,1327,0.27146730943055136
+102,Gunpowder,South Indian,extras,veg,42.5,1.0,36,53,102,1342,0.27598674299487796
+103,Medu Vada,South Indian,extras,veg,42.5,1.0,36,53,103,1307,0.2654413980114492
+104,Samosa,South Indian,extras,veg,42.5,1.0,36,53,104,1318,0.2687556492919554
+105,Masala Vada,South Indian,extras,veg,42.5,1.0,36,53,105,1288,0.2597167821633022
+106,Filter Coffee,South Indian,desserts & beverages,veg,93.5,1.0,79,116,106,3357,0.8830973184694185
+107,Buttermilk,South Indian,desserts & beverages,veg,93.5,1.15,91,134,107,3398,0.8954504368785778
+108,Rava Kesari,South Indian,desserts & beverages,veg,93.5,1.0,79,116,108,3306,0.867731244350708
+109,Payasam,South Indian,desserts & beverages,veg,93.5,1.0,79,116,109,3330,0.8749623380536307
+110,Mysore Pak,South Indian,desserts & beverages,veg,93.5,1.0,79,116,110,3361,0.8843025007532389
+111,Coconut Ladoo,South Indian,desserts & beverages,veg,93.5,1.0,79,116,111,3329,0.8746610424826755
+112,Jaggery Ladoo,South Indian,desserts & beverages,veg,93.5,1.0,79,116,112,3388,0.8924374811690268
+113,Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,113,1444,0.3067188912322989
+114,Mutton Biryani,Biryani,mains,nonveg,200.0,1.45,246,362,114,1371,0.2847243145525761
+115,Veg Biryani,Biryani,mains,veg,200.0,1.0,170,250,115,2662,0.6736968966556192
+116,Paneer Biryani,Biryani,mains,veg,200.0,1.18,200,295,116,2701,0.6854474239228683
+117,Egg Biryani,Biryani,mains,egg,200.0,1.05,178,262,117,1051,0.18830973184694186
+118,Egg 65 Biryani,Biryani,mains,egg,200.0,1.05,178,262,118,1017,0.17806568243446821
+119,Hyderabadi Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,119,1469,0.31425128050617657
+120,Lucknowi Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,120,1358,0.28080747213015966
+121,Kolkata Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,121,1441,0.30581500451943355
+122,Donne Mutton Biryani,Biryani,mains,nonveg,200.0,1.45,246,362,122,1379,0.28713467912021695
+123,Donne Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,123,1393,0.2913528171135884
+124,Boneless Chicken Biryani,Biryani,mains,nonveg,200.0,1.25,212,312,124,1365,0.28291654112684544
+125,Prawn Biryani,Biryani,mains,nonveg,200.0,1.0,170,250,125,1381,0.28773727026212714
+126,Fish Biryani,Biryani,mains,nonveg,200.0,1.6,272,400,126,1448,0.30792407351611933
+127,Mushroom Biryani,Biryani,mains,veg,200.0,1.0,170,250,127,2622,0.6616450738174149
+128,Chicken 65,Biryani,appetizers,nonveg,300.0,1.25,318,468,128,947,0.15697499246761074
+129,Paneer 65,Biryani,appetizers,veg,300.0,1.18,300,442,129,1829,0.4227176860500151
+130,Mutton Chops,Biryani,appetizers,nonveg,300.0,1.45,369,543,130,906,0.14462187405845134
+131,Fish Fry,Biryani,appetizers,nonveg,300.0,1.6,408,600,131,970,0.1639047905995782
+132,Prawn Fry,Biryani,appetizers,nonveg,300.0,1.0,255,375,132,967,0.16300090388671287
+133,Chicken Tikka,Biryani,appetizers,nonveg,300.0,1.25,318,468,133,949,0.15757758360952093
+134,Tandoori Chicken,Biryani,appetizers,nonveg,300.0,1.25,318,468,134,927,0.1509490810485086
+135,Paneer Tikka,Biryani,appetizers,veg,300.0,1.18,300,442,135,1788,0.41036456764085566
+136,Chicken Seekh Kabab,Biryani,appetizers,nonveg,300.0,1.25,318,468,136,938,0.15426333232901476
+137,Hara Bhara Chicken Kabab,Biryani,appetizers,nonveg,300.0,1.25,318,468,137,922,0.14944260319373306
+138,Aloo Tikki,Biryani,appetizers,veg,300.0,1.0,255,375,138,1811,0.41729436577282314
+139,Fish Amritsari,Biryani,appetizers,nonveg,300.0,1.6,408,600,139,983,0.16782163302199457
+140,Egg Bhurji,Biryani,appetizers,egg,300.0,1.05,267,393,140,631,0.06176559204579693
+141,Egg 65,Biryani,appetizers,egg,300.0,1.05,267,393,141,686,0.0783368484483278
+142,Egg Pakora,Biryani,appetizers,egg,300.0,1.05,267,393,142,723,0.08948478457366676
+143,Chicken Pakora,Biryani,appetizers,nonveg,300.0,1.25,318,468,143,932,0.15245555890328413
+144,Chettinad Chicken Curry,Biryani,complements,nonveg,120.0,1.25,127,187,144,872,0.1343778246459777
+145,Chettinad Mutton Curry,Biryani,complements,nonveg,120.0,1.45,147,217,145,829,0.1214221150949081
+146,Chettinad Egg Curry,Biryani,complements,egg,120.0,1.05,107,157,146,555,0.0388671286532088
+147,Chicken Curry,Biryani,complements,nonveg,120.0,1.25,127,187,147,915,0.1473335341970473
+148,Mutton Curry,Biryani,complements,nonveg,120.0,1.45,147,217,148,885,0.1382946670683941
+149,Egg Curry,Biryani,complements,egg,120.0,1.05,107,157,149,513,0.026212714673094304
+150,Paneer Butter Masala,Biryani,complements,veg,120.0,1.3569999999999998,138,203,150,1220,0.23922868333835492
+151,Dal Makhani,Biryani,complements,veg,120.0,1.0,102,150,151,1197,0.23229888520638747
+152,Shahi Paneer,Biryani,complements,veg,120.0,1.18,120,177,152,1199,0.2329014763482977
+153,Kadai Paneer,Biryani,complements,veg,120.0,1.18,120,177,153,1217,0.2383247966254896
+154,Chicken Tikka Masala,Biryani,complements,nonveg,120.0,1.25,127,187,154,875,0.13528171135884304
+155,Malai Kofta,Biryani,complements,veg,120.0,1.0,102,150,155,1212,0.23681831877071408
+156,Palak Paneer,Biryani,complements,veg,120.0,1.18,120,177,156,1279,0.2570051220247062
+157,Egg Masala,Biryani,complements,egg,120.0,1.05,107,157,157,516,0.027116601385959626
+158,Egg Bhurji Masala,Biryani,complements,egg,120.0,1.05,107,157,158,517,0.027417896956914732
+159,Extra Masala,Biryani,extras,veg,60.0,1.0,51,75,159,933,0.15275685447423923
+160,Extra Gravy,Biryani,extras,veg,60.0,1.0,51,75,160,966,0.16269960831575775
+161,Boiled Egg,Biryani,extras,egg,60.0,1.05,53,78,161,502,0.02289846339258813
+162,Raita,Biryani,extras,veg,60.0,1.0,51,75,162,890,0.13980114492316964
+163,Green Salad,Biryani,extras,veg,60.0,1.0,51,75,163,943,0.1557698101837903
+164,Mint Chutney,Biryani,extras,veg,60.0,1.0,51,75,164,903,0.14371798734558602
+165,Onion Salad,Biryani,extras,veg,60.0,1.0,51,75,165,873,0.13467912021693282
+166,Cucumber Salad,Biryani,extras,veg,60.0,1.0,51,75,166,934,0.15305815004519432
+167,Salan,Biryani,extras,veg,60.0,1.0,51,75,167,942,0.1554685146128352
+168,Mirchi Ka Salan,Biryani,extras,veg,60.0,1.0,51,75,168,923,0.14974389876468816
+169,Gulab Jamun,Biryani,desserts & beverages,veg,132.0,1.0,112,165,169,2831,0.7246158481470323
+170,Rasgulla,Biryani,desserts & beverages,veg,132.0,1.0,112,165,170,2769,0.7059355227478156
+171,Rasmalai,Biryani,desserts & beverages,veg,132.0,1.0,112,165,171,2897,0.7445013558300693
+172,Kheer,Biryani,desserts & beverages,veg,132.0,1.0,112,165,172,2840,0.7273275082856282
+173,Rabri,Biryani,desserts & beverages,veg,132.0,1.0,112,165,173,2784,0.7104549563121422
+174,Lassi,Biryani,desserts & beverages,veg,132.0,1.0,112,165,174,2865,0.7348598975595059
+175,Chai,Biryani,desserts & beverages,veg,132.0,1.0,112,165,175,2697,0.6842422416390479
+176,Badam Milk,Biryani,desserts & beverages,veg,132.0,1.0,112,165,176,2773,0.7071407050316361
+177,Margherita Pizza,Italian,mains,veg,250.0,1.0,212,312,177,1595,0.35221452244652
+178,Chicken Farmhouse Pizza,Italian,mains,nonveg,250.0,1.25,265,390,178,1150,0.21813799337149745
+179,Chicken Pepperoni Pizza,Italian,mains,nonveg,250.0,1.25,265,390,179,1104,0.20427839710756251
+180,Veggie Supreme Pizza,Italian,mains,egg,250.0,1.05,223,328,180,717,0.08767701114793612
+181,Paneer Pizza,Italian,mains,veg,250.0,1.18,250,368,181,1582,0.34829768002410366
+182,White Sauce Pasta (Chicken),Italian,mains,nonveg,250.0,1.25,265,390,182,1085,0.19855378125941547
+183,White Sauce Pasta (Veg),Italian,mains,veg,250.0,1.0,212,312,183,1601,0.3540222958722507
+184,Red Sauce Pasta (Chicken),Italian,mains,nonveg,250.0,1.25,265,390,184,1141,0.21542633323290147
+185,Red Sauce Pasta (Veg),Italian,mains,veg,250.0,1.0,212,312,185,1525,0.33112383247966254
+186,Lasagna Veg,Italian,mains,veg,250.0,1.0,212,312,186,1533,0.3335341970473034
+187,Lasagna Chicken,Italian,mains,nonveg,250.0,1.25,265,390,187,1096,0.20186803253992167
+188,Chicken Risotto,Italian,mains,nonveg,250.0,1.25,265,390,188,1090,0.200060259114191
+189,Garlic Bread,Italian,mains,veg,250.0,1.0,212,312,189,1602,0.3543235914432058
+190,Cheese Garlic Bread,Italian,mains,veg,250.0,1.2,255,375,190,1597,0.35281711358843026
+191,Garlic Bread,Italian,appetizers,veg,150.0,1.0,127,187,191,1503,0.3244953299186502
+192,Cheese Garlic Bread,Italian,appetizers,veg,150.0,1.2,153,225,192,1446,0.3073214823742091
+193,Bruschetta,Italian,appetizers,veg,150.0,1.0,127,187,193,1430,0.3025007532389274
+194,Stuffed Mushrooms,Italian,appetizers,veg,150.0,1.0,127,187,194,1474,0.3157577583609521
+195,Mozzarella Sticks,Italian,appetizers,veg,150.0,1.0,127,187,195,1501,0.32389273877673996
+196,Chicken Wings,Italian,appetizers,nonveg,150.0,1.25,159,234,196,1101,0.2033745103946972
+197,Boneless Chicken Bites,Italian,appetizers,nonveg,150.0,1.25,159,234,197,1117,0.2081952395299789
+198,Potato Wedges,Italian,appetizers,veg,150.0,1.0,127,187,198,1421,0.2997890931003314
+199,Poached Eggs,Italian,appetizers,egg,150.0,1.05,133,196,199,677,0.07562518830973185
+200,Sunny Side Up Eggs,Italian,appetizers,egg,150.0,1.05,133,196,200,696,0.08134980415787887
+201,CHicken Caesar Salad,Italian,appetizers,nonveg,150.0,1.25,159,234,201,1126,0.21090689966857487
+202,Veg Caesar Salad,Italian,appetizers,veg,150.0,1.0,127,187,202,1445,0.307020186803254
+203,Marinara Sauce,Italian,complements,veg,80.0,1.0,68,100,203,2137,0.515516721904188
+204,Alfredo Sauce,Italian,complements,veg,80.0,1.0,68,100,204,2224,0.5417294365772823
+205,Pesto Sauce,Italian,complements,veg,80.0,1.0,68,100,205,2107,0.5064778547755348
+206,Arrabbiata Sauce,Italian,complements,veg,80.0,1.0,68,100,206,2136,0.5152154263332329
+207,Bolognese Sauce,Italian,complements,veg,80.0,1.0,68,100,207,2090,0.501355830069298
+208,Chilli Flakes,Italian,extras,veg,70.0,1.0,59,87,208,790,0.10967158782765893
+209,Oregano,Italian,extras,veg,70.0,1.0,59,87,209,845,0.1262428442301898
+210,Garlic Dip,Italian,extras,veg,70.0,1.0,59,87,210,759,0.10033142512805061
+211,Cheese Dip,Italian,extras,veg,70.0,1.2,71,105,211,743,0.0955106959927689
+212,Sour Cream Dip,Italian,extras,veg,70.0,1.0,59,87,212,816,0.11750527267249171
+213,Marinara Dip,Italian,extras,veg,70.0,1.0,59,87,213,802,0.11328713467912022
+214,French Fries,Italian,extras,veg,70.0,1.0,59,87,214,736,0.09340162699608316
+215,Onion Rings,Italian,extras,veg,70.0,1.0,59,87,215,817,0.11780656824344682
+216,Coleslaw,Italian,extras,veg,70.0,1.0,59,87,216,812,0.11630009038867128
+217,Tiramisu,Italian,desserts & beverages,veg,154.0,1.0,130,192,217,2322,0.5712564025308828
+218,Choco Lava Cake,Italian,desserts & beverages,veg,154.0,1.0,130,192,218,2340,0.5766797228080747
+219,Panna Cotta,Italian,desserts & beverages,veg,154.0,1.0,130,192,219,2316,0.5694486291051521
+220,Gelato,Italian,desserts & beverages,veg,154.0,1.0,130,192,220,2300,0.5646278999698704
+221,Affogato,Italian,desserts & beverages,veg,154.0,1.0,130,192,221,2335,0.5751732449532991
+222,Espresso,Italian,desserts & beverages,veg,154.0,1.0,130,192,222,2289,0.5613136486893643
+223,Cappuccino,Italian,desserts & beverages,veg,154.0,1.0,130,192,223,2313,0.5685447423922868
+224,Latte,Italian,desserts & beverages,veg,154.0,1.0,130,192,224,2265,0.5540825549864417
+225,Veg Fried Rice,Chinese,mains,veg,165.0,1.0,140,206,225,1531,0.33293160590539317
+226,Chicken Fried Rice,Chinese,mains,nonveg,165.0,1.25,175,257,226,979,0.16661645073817416
+227,Egg Fried Rice,Chinese,mains,egg,165.0,1.05,147,216,227,585,0.047905995781862006
+228,Schezwan Veg Fried Rice,Chinese,mains,veg,165.0,1.0,140,206,228,1537,0.33473937933112385
+229,Schezwan Chicken Fried Rice,Chinese,mains,nonveg,165.0,1.25,175,257,229,949,0.15757758360952093
+230,Schezwan Egg Fried Rice,Chinese,mains,egg,165.0,1.05,147,216,230,606,0.05423320277191925
+231,Veg Noodles,Chinese,mains,veg,165.0,1.0,140,206,231,1449,0.30822536908707443
+232,Chicken Noodles,Chinese,mains,nonveg,165.0,1.25,175,257,232,996,0.17173847544441095
+233,Egg Noodles,Chinese,mains,egg,165.0,1.05,147,216,233,608,0.054835793913829464
+234,Veg Hakka Noodles,Chinese,mains,veg,165.0,1.0,140,206,234,1517,0.3287134679120217
+235,Chicken Hakka Noodles,Chinese,mains,nonveg,165.0,1.25,175,257,235,1023,0.17987345586019884
+236,Egg Hakka Noodles,Chinese,mains,egg,165.0,1.05,147,216,236,636,0.06327206990057246
+237,Veg Spring Rolls,Chinese,appetizers,veg,275.0,1.0,233,343,237,1122,0.20970171738475443
+238,Chicken Spring Rolls,Chinese,appetizers,nonveg,275.0,1.25,292,429,238,668,0.07291352817113589
+239,Veg Dim Sum,Chinese,appetizers,veg,275.0,1.0,233,343,239,1110,0.20608617053329317
+240,Chicken Dim Sum,Chinese,appetizers,nonveg,275.0,1.25,292,429,240,648,0.06688761675203375
+241,Veg Manchurian Dry,Chinese,appetizers,veg,275.0,1.0,233,343,241,1050,0.18800843627598673
+242,Chicken Manchurian Dry,Chinese,appetizers,nonveg,275.0,1.25,292,429,242,655,0.06899668574871949
+243,Chilli Chicken Dry,Chinese,appetizers,nonveg,275.0,1.25,292,429,243,652,0.06809279903585418
+244,Chilli Paneer Dry,Chinese,appetizers,veg,275.0,1.18,275,405,244,1101,0.2033745103946972
+245,Egg Manchurian Dry,Chinese,appetizers,egg,275.0,1.05,245,360,245,467,0.012353118409159385
+246,Egg Chilli Dry,Chinese,appetizers,egg,275.0,1.05,245,360,246,439,0.00391684242241639
+247,Chicken Lollipop,Chinese,appetizers,nonveg,275.0,1.25,292,429,247,705,0.08406146429647485
+248,Chilli Chicken Gravy,Chinese,complements,nonveg,200.0,1.25,212,312,248,717,0.08767701114793612
+249,Chilli Paneer Gravy,Chinese,complements,veg,200.0,1.18,200,295,249,1131,0.2124133775233504
+250,Egg Manchurian Gravy,Chinese,complements,egg,200.0,1.05,178,262,250,451,0.007532389273877674
+251,Egg Chilli Gravy,Chinese,complements,egg,200.0,1.05,178,262,251,494,0.020488098824947273
+252,Chicken Manchurian Gravy,Chinese,complements,nonveg,200.0,1.25,212,312,252,725,0.09008737571557698
+253,Veg Manchurian Gravy,Chinese,complements,veg,200.0,1.0,170,250,253,1157,0.2202470623681832
+254,Schezwan Chicken Gravy,Chinese,complements,nonveg,200.0,1.25,212,312,254,769,0.10334438083760168
+255,Schezwan Paneer Gravy,Chinese,complements,veg,200.0,1.18,200,295,255,1164,0.22235613136486893
+256,Schezwan Egg Gravy,Chinese,complements,egg,200.0,1.05,178,262,256,486,0.018077734257306417
+257,Extra Schezwan Sauce,Chinese,extras,veg,55.00000000000001,1.0,46,68,257,890,0.13980114492316964
+258,Extra Soy Sauce,Chinese,extras,veg,55.00000000000001,1.0,46,68,258,848,0.12714673094305515
+259,Extra Chilli Vinegar,Chinese,extras,veg,55.00000000000001,1.0,46,68,259,916,0.1476348297680024
+260,Extra Chilli Oil,Chinese,extras,veg,55.00000000000001,1.0,46,68,260,880,0.13678818921361857
+261,Extra Manchurian Gravy,Chinese,extras,veg,55.00000000000001,1.0,46,68,261,924,0.15004519433564326
+262,Green Tea,Chinese,desserts & beverages,veg,121.0,1.0,102,151,262,1531,0.33293160590539317
+263,Black Tea,Chinese,desserts & beverages,veg,121.0,1.0,102,151,263,1476,0.3163603495028623
+264,Lemon Tea,Chinese,desserts & beverages,veg,121.0,1.0,102,151,264,1570,0.34468213317264235
+265,Egg Custard Buns,Chinese,desserts & beverages,egg,121.0,1.05,107,158,265,880,0.13678818921361857
+266,Vanilla Ice Cream,Chinese,desserts & beverages,veg,121.0,1.0,102,151,266,1504,0.3247966254896053
+267,Chocolate Ice Cream,Chinese,desserts & beverages,veg,121.0,1.0,102,151,267,1535,0.3341367881892136
+268,Vanilla Milkshake,Chinese,desserts & beverages,veg,121.0,1.0,102,151,268,1509,0.32630310334438084
+269,Chocolate Milkshake,Chinese,desserts & beverages,veg,121.0,1.0,102,151,269,1579,0.3473937933112383
+270,Veg Burger,Fast Food,mains,veg,135.0,1.0,114,168,270,2073,0.49623380536306116
+271,Chicken Burger,Fast Food,mains,nonveg,135.0,1.25,143,210,271,1510,0.32660439891533594
+272,Aloo Burger,Fast Food,mains,veg,135.0,1.0,114,168,272,2041,0.48659234709249777
+273,Veg Wrap,Fast Food,mains,veg,135.0,1.0,114,168,273,2076,0.4971376920759265
+274,Chicken Wrap,Fast Food,mains,nonveg,135.0,1.25,143,210,274,1538,0.33504067490207895
+275,Egg Wrap,Fast Food,mains,egg,135.0,1.05,120,177,275,933,0.15275685447423923
+276,Paneer Wrap,Fast Food,mains,veg,135.0,1.18,135,199,276,2065,0.4938234407954203
+277,Veg Sandwich,Fast Food,mains,veg,135.0,1.0,114,168,277,2169,0.5251581801747515
+278,Chicken Sandwich,Fast Food,mains,nonveg,135.0,1.25,143,210,278,1528,0.3320277191925279
+279,Egg Sandwich,Fast Food,mains,egg,135.0,1.05,120,177,279,918,0.14823742090991263
+280,Chicken Nuggets,Fast Food,appetizers,nonveg,225.0,1.25,239,351,280,1245,0.2467610726122326
+281,Veg Nuggets,Fast Food,appetizers,veg,225.0,1.0,191,281,281,1845,0.4275384151852968
+282,Potato Wedges,Fast Food,appetizers,veg,225.0,1.0,191,281,282,1822,0.4206086170533293
+283,Chicken Popcorn,Fast Food,appetizers,nonveg,225.0,1.25,239,351,283,1307,0.2654413980114492
+284,Veg Popcorn,Fast Food,appetizers,veg,225.0,1.0,191,281,284,1781,0.40825549864416993
+285,Chicken Wings,Fast Food,appetizers,nonveg,225.0,1.25,239,351,285,1268,0.25369087074420005
+286,Chicken Momos,Fast Food,appetizers,nonveg,225.0,1.25,239,351,286,1204,0.23440795420307323
+287,Veg Momos,Fast Food,appetizers,veg,225.0,1.0,191,281,287,1845,0.4275384151852968
+288,French Fries,Fast Food,complements,veg,90.0,1.0,76,112,288,1938,0.45555890328412174
+289,Loaded Fries,Fast Food,complements,veg,90.0,1.0,76,112,289,1983,0.46911720397710155
+290,Cheese Fries,Fast Food,complements,veg,90.0,1.2,91,135,290,1895,0.4426031937330521
+291,Onion Rings,Fast Food,complements,veg,90.0,1.0,76,112,291,1876,0.4368785778849051
+292,Baked Beans,Fast Food,complements,veg,90.0,1.0,76,112,292,1952,0.45977704127749325
+293,Extra Cheese,Fast Food,extras,veg,45.0,1.2,45,67,293,663,0.07140705031636035
+294,Ketchup,Fast Food,extras,veg,45.0,1.0,38,56,294,735,0.09310033142512805
+295,Mayonnaise,Fast Food,extras,veg,45.0,1.0,38,56,295,702,0.08315757758360952
+296,Mustard,Fast Food,extras,veg,45.0,1.0,38,56,296,692,0.08014462187405845
+297,Peri Peri Sauce,Fast Food,extras,veg,45.0,1.0,38,56,297,717,0.08767701114793612
+298,BBQ Sauce,Fast Food,extras,veg,45.0,1.0,38,56,298,748,0.09701717384754444
+299,Cheese Dip,Fast Food,extras,veg,45.0,1.2,45,67,299,708,0.08496535100934016
+300,Garlic Dip,Fast Food,extras,veg,45.0,1.0,38,56,300,706,0.08436275986742994
+301,Sour Cream Dip,Fast Food,extras,veg,45.0,1.0,38,56,301,707,0.08466405543838505
+302,Chocolate Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,302,1639,0.36547152756854473
+303,Vanilla Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,303,1621,0.36004820729135284
+304,Strawberry Milkshake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,304,1607,0.35583006929798133
+305,Coke,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,305,1640,0.3657728231394998
+306,7UP,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,306,1646,0.3675805965652305
+307,Vanilla Ice Cream,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,307,1597,0.35281711358843026
+308,Chocolate Ice Cream,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,308,1671,0.3751129858391082
+309,Brownie Sundae,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,309,1661,0.3721000301295571
+310,Mojito,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,310,1607,0.35583006929798133
+311,Choco Lava Cake,Fast Food,desserts & beverages,veg,99.0,1.0,84,123,311,1659,0.37149743898764687
+312,Veg Salad,Healthy,mains,veg,180.0,1.0,153,225,312,1979,0.4679120216932811
+313,Chicken Salad,Healthy,mains,nonveg,180.0,1.25,191,281,313,1436,0.304308526664658
+314,Paneer Salad,Healthy,mains,veg,180.0,1.18,180,265,314,1978,0.467610726122326
+315,Egg Salad,Healthy,mains,egg,180.0,1.05,160,236,315,860,0.1307622777945164
+316,Greek Salad,Healthy,mains,veg,180.0,1.0,153,225,316,1976,0.46700813498041577
+317,Chicken Caesar Salad,Healthy,mains,nonveg,180.0,1.25,191,281,317,1451,0.3088279602289846
+318,Quinoa Salad,Healthy,mains,veg,180.0,1.0,153,225,318,1912,0.4477252184392889
+319,Protein Bowl Veg,Healthy,mains,veg,180.0,1.0,153,225,319,2014,0.47845736667670985
+320,Protein Bowl Chicken,Healthy,mains,nonveg,180.0,1.25,191,281,320,1407,0.2955709551069599
+321,Brown Rice Veg Bowl,Healthy,mains,veg,180.0,1.0,153,225,321,1956,0.46098222356131363
+322,Grilled Chicken Bowl,Healthy,mains,nonveg,180.0,1.25,191,281,322,1415,0.2979813196746008
+323,Egg Rice Bowl,Healthy,mains,egg,180.0,1.05,160,236,323,927,0.1509490810485086
+324,Fruit Salad,Healthy,appetizers,veg,300.0,1.0,255,375,324,2548,0.639349201566737
+325,Mixed Nuts,Healthy,appetizers,veg,300.0,1.0,255,375,325,2643,0.6679722808074722
+326,Roasted Chickpeas,Healthy,appetizers,veg,300.0,1.0,255,375,326,2512,0.6285025610123531
+327,Edamame Beans,Healthy,appetizers,veg,300.0,1.0,255,375,327,2585,0.650497137692076
+328,Egg White Omelette,Healthy,appetizers,egg,300.0,1.05,267,393,328,1251,0.24856884603796325
+329,Grilled Chicken Strips,Healthy,appetizers,nonveg,300.0,1.25,318,468,329,2084,0.49954805664356733
+330,Egg Sandwich,Healthy,appetizers,egg,300.0,1.05,267,393,330,1216,0.2380235010545345
+331,Lemon Wedges,Healthy,complements,veg,120.0,1.0,102,150,331,1688,0.380235010545345
+332,Chia Seeds,Healthy,complements,veg,120.0,1.0,102,150,332,1642,0.3663754142814101
+333,Flax Seeds,Healthy,complements,veg,120.0,1.0,102,150,333,1561,0.3419704730340464
+334,Peanut Butter,Healthy,complements,veg,120.0,1.15,117,172,334,1654,0.36999096113287133
+335,Boiled Egg,Healthy,complements,egg,120.0,1.05,107,157,335,910,0.14582705634227178
+336,Avocado Slices,Healthy,complements,veg,120.0,1.0,102,150,336,1683,0.37872853269056944
+337,Tofu Cubes,Healthy,complements,veg,120.0,1.0,102,150,337,1575,0.3461886110274179
+338,Extra Avocado,Healthy,extras,veg,60.0,1.0,51,75,338,2183,0.5293763181681229
+339,Extra Chicken,Healthy,extras,nonveg,60.0,1.25,63,93,339,1673,0.3757155769810184
+340,Extra Paneer,Healthy,extras,veg,60.0,1.18,60,88,340,2165,0.523952997890931
+341,Extra Egg,Healthy,extras,egg,60.0,1.05,53,78,341,1146,0.216932811087677
+342,Chia Pudding,Healthy,desserts & beverages,veg,132.0,1.0,112,165,342,1992,0.4718288641156975
+343,Protein Bar,Healthy,desserts & beverages,veg,132.0,1.0,112,165,343,2061,0.4926182585115999
+344,Almond Milk Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165,344,2094,0.5025610123531185
+345,Green Tea,Healthy,desserts & beverages,veg,132.0,1.0,112,165,345,2091,0.5016571256402531
+346,Black Coffee,Healthy,desserts & beverages,veg,132.0,1.0,112,165,346,2064,0.4935221452244652
+347,Mango Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165,347,2032,0.4838806869539018
+348,Strawberry Smoothie,Healthy,desserts & beverages,veg,132.0,1.0,112,165,348,2015,0.47875866224766495
+349,Protein Shake Chocolate,Healthy,desserts & beverages,veg,132.0,1.0,112,165,349,2054,0.4905091895149141
+350,Protein Shake Vanilla,Healthy,desserts & beverages,veg,132.0,1.0,112,165,350,2086,0.5001506477854776
